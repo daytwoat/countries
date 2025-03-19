@@ -1,6 +1,12 @@
 [
   {
+    "name": "Afghanistan",
+    "iso2": "AF",
+    "iso3": "AFG",
+    "long": 65,
+    "lat": 33,
     "currency": "AFN",
+    "dial_code": "+93",
     "capital": "Kabul",
     "cities": [
       "Herat",
@@ -11,16 +17,16 @@
       "Shar",
       "Sharif",
       "Wazir Akbar Khan"
-    ],
-    "dial_code": "+93",
-    "long": 65,
-    "lat": 33,
-    "iso2": "AF",
-    "iso3": "AFG",
-    "name": "Afghanistan"
+    ]
   },
   {
+    "name": "Albania",
+    "iso2": "AL",
+    "iso3": "ALB",
+    "long": 20,
+    "lat": 41,
     "currency": "ALL",
+    "dial_code": "+355",
     "capital": "Tirana",
     "cities": [
       "Elbasan",
@@ -29,16 +35,16 @@
       "Shkoder",
       "Tirana",
       "Ura Vajgurore"
-    ],
-    "dial_code": "+355",
-    "long": 20,
-    "lat": 41,
-    "iso2": "AL",
-    "iso3": "ALB",
-    "name": "Albania"
+    ]
   },
   {
+    "name": "Algeria",
+    "iso2": "DZ",
+    "iso3": "DZA",
+    "long": 3,
+    "lat": 28,
     "currency": "DZD",
+    "dial_code": "+213",
     "capital": "Algiers",
     "cities": [
       "Algiers",
@@ -73,16 +79,16 @@
       "Tizi",
       "Tizi Ouzou",
       "Tlemcen"
-    ],
-    "dial_code": "+213",
-    "long": 3,
-    "lat": 28,
-    "iso2": "DZ",
-    "iso3": "DZA",
-    "name": "Algeria"
+    ]
   },
   {
+    "name": "Andorra",
+    "iso2": "AD",
+    "iso3": "AND",
+    "long": 1.6,
+    "lat": 42.5,
     "currency": "EUR",
+    "dial_code": "+376",
     "capital": "Andorra la Vella",
     "cities": [
       "Andorra la Vella",
@@ -96,16 +102,16 @@
       "Santa Coloma",
       "Sispony",
       "Soldeu"
-    ],
-    "dial_code": "+376",
-    "long": 1.6,
-    "lat": 42.5,
-    "iso2": "AD",
-    "iso3": "AND",
-    "name": "Andorra"
+    ]
   },
   {
+    "name": "Angola",
+    "iso2": "AO",
+    "iso3": "AGO",
+    "long": 18.5,
+    "lat": -12.5,
     "currency": "AOA",
+    "dial_code": "+244",
     "capital": "Luanda",
     "cities": [
       "Ambriz",
@@ -129,16 +135,16 @@
       "Piri",
       "Saurimo",
       "Talatona"
-    ],
-    "dial_code": "+244",
-    "long": 18.5,
-    "lat": -12.5,
-    "iso2": "AO",
-    "iso3": "AGO",
-    "name": "Angola"
+    ]
   },
   {
+    "name": "Anguilla",
+    "iso2": "AI",
+    "iso3": "AIA",
+    "long": -63.1667,
+    "lat": 18.25,
     "currency": "XCD",
+    "dial_code": "+1 264",
     "capital": "The Valley",
     "cities": [
       "The Valley",
@@ -155,16 +161,16 @@
       "Farrington",
       "The Quarter",
       "West End Village"
-    ],
-    "dial_code": "+1 264",
-    "long": -63.1667,
-    "lat": 18.25,
-    "iso2": "AI",
-    "iso3": "AIA",
-    "name": "Anguilla"
+    ]
   },
   {
+    "name": "Antigua and Barbuda",
+    "iso2": "AG",
+    "iso3": "ATG",
+    "long": -61.8,
+    "lat": 17.05,
     "currency": "XCD",
+    "dial_code": "+1268",
     "capital": "St. John's",
     "cities": [
       "All Saints",
@@ -173,16 +179,16 @@
       "Old Road",
       "Parham",
       "Woods"
-    ],
-    "dial_code": "+1268",
-    "long": -61.8,
-    "lat": 17.05,
-    "iso2": "AG",
-    "iso3": "ATG",
-    "name": "Antigua and Barbuda"
+    ]
   },
   {
+    "name": "Argentina",
+    "iso2": "AR",
+    "iso3": "ARG",
+    "long": -64,
+    "lat": -34,
     "currency": "ARS",
+    "dial_code": "+54",
     "capital": "Buenos Aires",
     "cities": [
       "28 de Noviembre",
@@ -763,16 +769,16 @@
       "Winifreda",
       "Yerba Buena",
       "Zenon Pereyra"
-    ],
-    "dial_code": "+54",
-    "long": -64,
-    "lat": -34,
-    "iso2": "AR",
-    "iso3": "ARG",
-    "name": "Argentina"
+    ]
   },
   {
+    "name": "Armenia",
+    "iso2": "AM",
+    "iso3": "ARM",
+    "long": 45,
+    "lat": 40,
     "currency": "AMD",
+    "dial_code": "+374",
     "capital": "Yerevan",
     "cities": [
       "Abovyan",
@@ -789,16 +795,16 @@
       "Tsaghkadzor",
       "Vanadzor",
       "Yerevan"
-    ],
-    "dial_code": "+374",
-    "long": 45,
-    "lat": 40,
-    "iso2": "AM",
-    "iso3": "ARM",
-    "name": "Armenia"
+    ]
   },
   {
+    "name": "Aruba",
+    "iso2": "AW",
+    "iso3": "ABW",
+    "long": -69.9667,
+    "lat": 12.5,
     "currency": "AWG",
+    "dial_code": "+297",
     "capital": "Oranjestad",
     "cities": [
       "Noord",
@@ -812,16 +818,16 @@
       "Sero Blanco",
       "Sint Nicolaas",
       "Tanki Lender"
-    ],
-    "dial_code": "+297",
-    "long": -69.9667,
-    "lat": 12.5,
-    "iso2": "AW",
-    "iso3": "ABW",
-    "name": "Aruba"
+    ]
   },
   {
+    "name": "Australia",
+    "iso2": "AU",
+    "iso3": "AUS",
+    "long": 133,
+    "lat": -27,
     "currency": "AUD",
+    "dial_code": "+61",
     "capital": "Canberra",
     "cities": [
       "Abbotsford",
@@ -2780,16 +2786,16 @@
       "Young",
       "Yowie Bay",
       "Zeehan"
-    ],
-    "dial_code": "+61",
-    "long": 133,
-    "lat": -27,
-    "iso2": "AU",
-    "iso3": "AUS",
-    "name": "Australia"
+    ]
   },
   {
+    "name": "Austria",
+    "iso2": "AT",
+    "iso3": "AUT",
+    "long": 13.3333,
+    "lat": 47.3333,
     "currency": "EUR",
+    "dial_code": "+43",
     "capital": "Vienna",
     "cities": [
       "Absam",
@@ -4182,16 +4188,16 @@
       "Zwentendorf",
       "Zwettl Stadt",
       "Zwolfaxing"
-    ],
-    "dial_code": "+43",
-    "long": 13.3333,
-    "lat": 47.3333,
-    "iso2": "AT",
-    "iso3": "AUT",
-    "name": "Austria"
+    ]
   },
   {
+    "name": "Azerbaijan",
+    "iso2": "AZ",
+    "iso3": "AZE",
+    "long": 47.5,
+    "lat": 40.5,
     "currency": "AZN",
+    "dial_code": "+994",
     "capital": "Baku",
     "cities": [
       "Baku",
@@ -4202,16 +4208,16 @@
       "Sumqayit",
       "Xirdalan",
       "Zurges"
-    ],
-    "dial_code": "+994",
-    "long": 47.5,
-    "lat": 40.5,
-    "iso2": "AZ",
-    "iso3": "AZE",
-    "name": "Azerbaijan"
+    ]
   },
   {
+    "name": "Bahamas",
+    "iso2": "BS",
+    "iso3": "BHS",
+    "long": -76,
+    "lat": 24.25,
     "currency": "BSD",
+    "dial_code": "+1 242",
     "capital": "Nassau",
     "cities": [
       "Andros Town",
@@ -4221,16 +4227,16 @@
       "Nassau",
       "Palmetto Point",
       "Spanish Wells"
-    ],
-    "dial_code": "+1 242",
-    "long": -76,
-    "lat": 24.25,
-    "iso2": "BS",
-    "iso3": "BHS",
-    "name": "Bahamas"
+    ]
   },
   {
+    "name": "Bahrain",
+    "iso2": "BH",
+    "iso3": "BHR",
+    "long": 50.55,
+    "lat": 26,
     "currency": "BHD",
+    "dial_code": "+973",
     "capital": "Manama",
     "cities": [
       "Al Budayyi`",
@@ -4250,16 +4256,16 @@
       "Sanad",
       "Sitrah",
       "Tubli"
-    ],
-    "dial_code": "+973",
-    "long": 50.55,
-    "lat": 26,
-    "iso2": "BH",
-    "iso3": "BHR",
-    "name": "Bahrain"
+    ]
   },
   {
+    "name": "Bangladesh",
+    "iso2": "BD",
+    "iso3": "BGD",
+    "long": 90,
+    "lat": 24,
     "currency": "BDT",
+    "dial_code": "+880",
     "capital": "Dhaka",
     "cities": [
       "Bagerhat",
@@ -4325,16 +4331,16 @@
       "Sylhet",
       "Tangail",
       "Thakurgaon"
-    ],
-    "dial_code": "+880",
-    "long": 90,
-    "lat": 24,
-    "iso2": "BD",
-    "iso3": "BGD",
-    "name": "Bangladesh"
+    ]
   },
   {
+    "name": "Barbados",
+    "iso2": "BB",
+    "iso3": "BRB",
+    "long": -59.5333,
+    "lat": 13.1667,
     "currency": "BBD",
+    "dial_code": "+1 246",
     "capital": "Bridgetown",
     "cities": [
       "Atlantic Shores",
@@ -4360,16 +4366,16 @@
       "White Hill",
       "Wildey",
       "Worthing"
-    ],
-    "dial_code": "+1 246",
-    "long": -59.5333,
-    "lat": 13.1667,
-    "iso2": "BB",
-    "iso3": "BRB",
-    "name": "Barbados"
+    ]
   },
   {
+    "name": "Belarus",
+    "iso2": "BY",
+    "iso3": "BLR",
+    "long": 28,
+    "lat": 53,
     "currency": "BYR",
+    "dial_code": "+375",
     "capital": "Minsk",
     "cities": [
       "Baranovichi",
@@ -4394,16 +4400,16 @@
       "Vitebsk",
       "Zaslawye",
       "Zhodzina"
-    ],
-    "dial_code": "+375",
-    "long": 28,
-    "lat": 53,
-    "iso2": "BY",
-    "iso3": "BLR",
-    "name": "Belarus"
+    ]
   },
   {
+    "name": "Belgium",
+    "iso2": "BE",
+    "iso3": "BEL",
+    "long": 4,
+    "lat": 50.8333,
     "currency": "EUR",
+    "dial_code": "+32",
     "capital": "Brussels",
     "cities": [
       "Aalbeke",
@@ -5544,16 +5550,16 @@
       "Zwevezele",
       "Zwijnaarde",
       "Zwijndrecht"
-    ],
-    "dial_code": "+32",
-    "long": 4,
-    "lat": 50.8333,
-    "iso2": "BE",
-    "iso3": "BEL",
-    "name": "Belgium"
+    ]
   },
   {
+    "name": "Belize",
+    "iso2": "BZ",
+    "iso3": "BLZ",
+    "long": -88.75,
+    "lat": 17.25,
     "currency": "BZD",
+    "dial_code": "+501",
     "capital": "Belmopan",
     "cities": [
       "Belize City",
@@ -5563,16 +5569,16 @@
       "Ladyville",
       "San Ignacio",
       "San Pedro Town"
-    ],
-    "dial_code": "+501",
-    "long": -88.75,
-    "lat": 17.25,
-    "iso2": "BZ",
-    "iso3": "BLZ",
-    "name": "Belize"
+    ]
   },
   {
+    "name": "Benin",
+    "iso2": "BJ",
+    "iso3": "BEN",
+    "long": 2.25,
+    "lat": 9.5,
     "currency": "XOF",
+    "dial_code": "+229",
     "capital": "Porto-Novo",
     "cities": [
       "Alibori",
@@ -5587,16 +5593,16 @@
       "Oueme",
       "Plateau",
       "Zou"
-    ],
-    "dial_code": "+229",
-    "long": 2.25,
-    "lat": 9.5,
-    "iso2": "BJ",
-    "iso3": "BEN",
-    "name": "Benin"
+    ]
   },
   {
+    "name": "Bermuda",
+    "iso2": "BM",
+    "iso3": "BMU",
+    "long": -64.75,
+    "lat": 32.3333,
     "currency": "BMD",
+    "dial_code": "+1 441",
     "capital": "Hamilton",
     "cities": [
       "Devonshire",
@@ -5609,16 +5615,16 @@
       "Smith's",
       "Southampton",
       "Warwick"
-    ],
-    "dial_code": "+1 441",
-    "long": -64.75,
-    "lat": 32.3333,
-    "iso2": "BM",
-    "iso3": "BMU",
-    "name": "Bermuda"
+    ]
   },
   {
+    "name": "Bhutan",
+    "iso2": "BT",
+    "iso3": "BTN",
+    "long": 90.5,
+    "lat": 27.5,
     "currency": "BTN",
+    "dial_code": "+975",
     "capital": "Thimphu",
     "cities": [
       "Bumthang",
@@ -5641,16 +5647,16 @@
       "Tsirang",
       "Wangdue Phodrang",
       "Zhemgang"
-    ],
-    "dial_code": "+975",
-    "long": 90.5,
-    "lat": 27.5,
-    "iso2": "BT",
-    "iso3": "BTN",
-    "name": "Bhutan"
+    ]
   },
   {
+    "name": "Bolivia",
+    "iso2": "BO",
+    "iso3": "BOL",
+    "long": -65,
+    "lat": -17,
     "currency": "BOB",
+    "dial_code": "+591",
     "capital": "Sucre",
     "cities": [
       "Anillo",
@@ -5669,16 +5675,16 @@
       "Sucre",
       "Tarija",
       "Trinidad"
-    ],
-    "dial_code": "+591",
-    "long": -65,
-    "lat": -17,
-    "iso2": "BO",
-    "iso3": "BOL",
-    "name": "Bolivia"
+    ]
   },
   {
+    "name": "Bosnia and Herzegovina",
+    "iso2": "BA",
+    "iso3": "BIH",
+    "long": 18,
+    "lat": 44,
     "currency": "BAM",
+    "dial_code": "+387",
     "capital": "Sarajevo",
     "cities": [
       "Banja",
@@ -5721,16 +5727,16 @@
       "Zenica",
       "Zepce",
       "Zivinice"
-    ],
-    "dial_code": "+387",
-    "long": 18,
-    "lat": 44,
-    "iso2": "BA",
-    "iso3": "BIH",
-    "name": "Bosnia and Herzegovina"
+    ]
   },
   {
+    "name": "Botswana",
+    "iso2": "BW",
+    "iso3": "BWA",
+    "long": 24,
+    "lat": -22,
     "currency": "BWP",
+    "dial_code": "+267",
     "capital": "Gaborone",
     "cities": [
       "Francistown",
@@ -5738,16 +5744,16 @@
       "Orapa",
       "Serowe",
       "Village"
-    ],
-    "dial_code": "+267",
-    "long": 24,
-    "lat": -22,
-    "iso2": "BW",
-    "iso3": "BWA",
-    "name": "Botswana"
+    ]
   },
   {
+    "name": "Brazil",
+    "iso2": "BR",
+    "iso3": "BRA",
+    "long": -55,
+    "lat": -10,
     "currency": "BRL",
+    "dial_code": "+55",
     "capital": "Brasilia",
     "cities": [
       "Abadiania",
@@ -7777,16 +7783,16 @@
       "Xanxere",
       "Xavantina",
       "Xaxim"
-    ],
-    "dial_code": "+55",
-    "long": -55,
-    "lat": -10,
-    "iso2": "BR",
-    "iso3": "BRA",
-    "name": "Brazil"
+    ]
   },
   {
+    "name": "British Indian Ocean Territory",
+    "iso2": "IO",
+    "iso3": "IOT",
+    "long": 71.5,
+    "lat": -6,
     "currency": "USD",
+    "dial_code": "+246",
     "capital": "Diego Garcia",
     "cities": [
       "Carcasse",
@@ -7801,16 +7807,16 @@
       "Eagle Islands (island)",
       "Salomon Islands (island)",
       "Danger Islands (island)"
-    ],
-    "dial_code": "+246",
-    "long": 71.5,
-    "lat": -6,
-    "iso2": "IO",
-    "iso3": "IOT",
-    "name": "British Indian Ocean Territory"
+    ]
   },
   {
+    "name": "Brunei",
+    "iso2": "BN",
+    "iso3": "BRN",
+    "long": 114.6667,
+    "lat": 4.5,
     "currency": "BND",
+    "dial_code": "+673",
     "capital": "Bandar Seri Begawan",
     "cities": [
       "Bandar Seri Begawan",
@@ -7820,16 +7826,16 @@
       "Panaga",
       "Seria",
       "Tutong"
-    ],
-    "dial_code": "+673",
-    "long": 114.6667,
-    "lat": 4.5,
-    "iso2": "BN",
-    "iso3": "BRN",
-    "name": "Brunei"
+    ]
   },
   {
+    "name": "Bulgaria",
+    "iso2": "BG",
+    "iso3": "BGR",
+    "long": 25,
+    "lat": 43,
     "currency": "BGN",
+    "dial_code": "+359",
     "capital": "Sofia",
     "cities": [
       "Akhtopol",
@@ -8052,16 +8058,16 @@
       "Zavet",
       "Zlatitrap",
       "Zlatograd"
-    ],
-    "dial_code": "+359",
-    "long": 25,
-    "lat": 43,
-    "iso2": "BG",
-    "iso3": "BGR",
-    "name": "Bulgaria"
+    ]
   },
   {
+    "name": "Burkina Faso",
+    "iso2": "BF",
+    "iso3": "BFA",
+    "long": -2,
+    "lat": 13,
     "currency": "XOF",
+    "dial_code": "+226",
     "capital": "Ouagadougou",
     "cities": [
       "Bale",
@@ -8109,16 +8115,16 @@
       "Ziro",
       "Zondoma",
       "Zoundweogo"
-    ],
-    "dial_code": "+226",
-    "long": -2,
-    "lat": 13,
-    "iso2": "BF",
-    "iso3": "BFA",
-    "name": "Burkina Faso"
+    ]
   },
   {
+    "name": "Myanmar",
+    "iso2": "MM",
+    "iso3": "MMR",
+    "long": 98,
+    "lat": 22,
     "currency": "MMK",
+    "dial_code": "+95",
     "capital": "Nay Pyi Taw",
     "cities": [
       "Ayeyarwady",
@@ -8141,16 +8147,16 @@
       "Mandalay",
       "Wagan",
       "Yangon"
-    ],
-    "dial_code": "+95",
-    "long": 98,
-    "lat": 22,
-    "iso2": "MM",
-    "iso3": "MMR",
-    "name": "Myanmar"
+    ]
   },
   {
+    "name": "Burundi",
+    "iso2": "BI",
+    "iso3": "BDI",
+    "long": 30,
+    "lat": -3.5,
     "currency": "BIF",
+    "dial_code": "+257",
     "capital": "Bujumbura",
     "cities": [
       "Bubanza",
@@ -8170,16 +8176,16 @@
       "Ngozi",
       "Rutana",
       "Ruyigi"
-    ],
-    "dial_code": "+257",
-    "long": 30,
-    "lat": -3.5,
-    "iso2": "BI",
-    "iso3": "BDI",
-    "name": "Burundi"
+    ]
   },
   {
+    "name": "Cambodia",
+    "iso2": "KH",
+    "iso3": "KHM",
+    "long": 105,
+    "lat": 13,
     "currency": "KHR",
+    "dial_code": "+855",
     "capital": "Phnom Penh",
     "cities": [
       "Moung Roessei",
@@ -8196,16 +8202,16 @@
       "Sihanoukville",
       "Tuol Kok",
       "Vott Kampong Svay"
-    ],
-    "dial_code": "+855",
-    "long": 105,
-    "lat": 13,
-    "iso2": "KH",
-    "iso3": "KHM",
-    "name": "Cambodia"
+    ]
   },
   {
+    "name": "Cameroon",
+    "iso2": "CM",
+    "iso3": "CMR",
+    "long": 12,
+    "lat": 6,
     "currency": "XAF",
+    "dial_code": "+237",
     "capital": "Yaounde",
     "cities": [
       "Bafia",
@@ -8217,16 +8223,16 @@
       "Kumba",
       "Ringo",
       "Tibati"
-    ],
-    "dial_code": "+237",
-    "long": 12,
-    "lat": 6,
-    "iso2": "CM",
-    "iso3": "CMR",
-    "name": "Cameroon"
+    ]
   },
   {
+    "name": "Canada",
+    "iso2": "CA",
+    "iso3": "CAN",
+    "long": -95,
+    "lat": 60,
     "currency": "CAD",
+    "dial_code": "+1",
     "capital": "Ottawa",
     "cities": [
       "100 Mile House",
@@ -10324,16 +10330,16 @@
       "Youbou",
       "Young",
       "Youngstown"
-    ],
-    "dial_code": "+1",
-    "long": -95,
-    "lat": 60,
-    "iso2": "CA",
-    "iso3": "CAN",
-    "name": "Canada"
+    ]
   },
   {
+    "name": "Cape Verde",
+    "iso2": "CV",
+    "iso3": "CPV",
+    "long": -24,
+    "lat": 16,
     "currency": "CVE",
+    "dial_code": "+238",
     "capital": "Praia",
     "cities": [
       "Praia",
@@ -10343,16 +10349,16 @@
       "Assomada",
       "Santa Maria",
       "São Filipe"
-    ],
-    "dial_code": "+238",
-    "long": -24,
-    "lat": 16,
-    "iso2": "CV",
-    "iso3": "CPV",
-    "name": "Cape Verde"
+    ]
   },
   {
+    "name": "Cayman Islands",
+    "iso2": "KY",
+    "iso3": "CYM",
+    "long": -80.5,
+    "lat": 19.5,
     "currency": "KYD",
+    "dial_code": "+1345",
     "capital": "George Town",
     "cities": [
       "Bodden Town",
@@ -10362,16 +10368,16 @@
       "Savannah",
       "Spot Bay",
       "West Bay"
-    ],
-    "dial_code": "+1345",
-    "long": -80.5,
-    "lat": 19.5,
-    "iso2": "KY",
-    "iso3": "CYM",
-    "name": "Cayman Islands"
+    ]
   },
   {
+    "name": "Central African Republic",
+    "iso2": "CF",
+    "iso3": "CAF",
+    "long": 21,
+    "lat": 7,
     "currency": "XAF",
+    "dial_code": "+236",
     "capital": "Bangui",
     "cities": [
       "Bamingui-Bangoran",
@@ -10391,16 +10397,16 @@
       "Ouham-Pende",
       "Sangha-Mbaere",
       "Vakaga"
-    ],
-    "dial_code": "+236",
-    "long": 21,
-    "lat": 7,
-    "iso2": "CF",
-    "iso3": "CAF",
-    "name": "Central African Republic"
+    ]
   },
   {
+    "name": "Chad",
+    "iso2": "TD",
+    "iso3": "TCD",
+    "long": 19,
+    "lat": 15,
     "currency": "XAF",
+    "dial_code": "+235",
     "capital": "N'Djamena",
     "cities": [
       "Batha",
@@ -10417,46 +10423,46 @@
       "Ouaddaï",
       "Salamat",
       "Tandjile"
-    ],
-    "dial_code": "+235",
-    "long": 19,
-    "lat": 15,
-    "iso2": "TD",
-    "iso3": "TCD",
-    "name": "Chad"
+    ]
   },
   {
+    "name": "Christmas Island",
+    "iso2": "CX",
+    "iso3": "CXR",
+    "long": 105.6667,
+    "lat": -10.5,
     "currency": "AUD",
+    "dial_code": "+61",
     "capital": "Flying Fish Cove",
     "cities": [
       "Drumsite (settlement)",
       "Flying Fish Cove (settlement)",
       "Poon Saan (settlement)",
       "Silver City (settlement)"
-    ],
-    "dial_code": "+61",
-    "long": 105.6667,
-    "lat": -10.5,
-    "iso2": "CX",
-    "iso3": "CXR",
-    "name": "Christmas Island"
+    ]
   },
   {
+    "name": "Cocos (Keeling) Islands",
+    "iso2": "CC",
+    "iso3": "CCK",
+    "long": 96.8333,
+    "lat": -12.5,
     "currency": "AUD",
+    "dial_code": "+61",
     "capital": "West Island",
     "cities": [
       "Bantam (settlement)",
       "West Island (island)"
-    ],
-    "dial_code": "+61",
-    "long": 96.8333,
-    "lat": -12.5,
-    "iso2": "CC",
-    "iso3": "CCK",
-    "name": "Cocos (Keeling) Islands"
+    ]
   },
   {
+    "name": "Cook Islands",
+    "iso2": "CK",
+    "iso3": "COK",
+    "long": -159.7667,
+    "lat": -21.2333,
     "currency": "NZD",
+    "dial_code": "+682",
     "capital": "Avarua",
     "cities": [
       "Amuri",
@@ -10465,16 +10471,16 @@
       "Avatiu",
       "Omoka",
       "Oneroa"
-    ],
-    "dial_code": "+682",
-    "long": -159.7667,
-    "lat": -21.2333,
-    "iso2": "CK",
-    "iso3": "COK",
-    "name": "Cook Islands"
+    ]
   },
   {
+    "name": "Chile",
+    "iso2": "CL",
+    "iso3": "CHL",
+    "long": -71,
+    "lat": -30,
     "currency": "CLP",
+    "dial_code": "+56",
     "capital": "Santiago",
     "cities": [
       "Algarrobo",
@@ -10599,16 +10605,16 @@
       "Villa Alemana",
       "Villarrica",
       "Vitacura"
-    ],
-    "dial_code": "+56",
-    "long": -71,
-    "lat": -30,
-    "iso2": "CL",
-    "iso3": "CHL",
-    "name": "Chile"
+    ]
   },
   {
+    "name": "China",
+    "iso2": "CN",
+    "iso3": "CHN",
+    "long": 105,
+    "lat": 35,
     "currency": "CNY",
+    "dial_code": "+86",
     "capital": "Beijing",
     "cities": [
       "Aishang",
@@ -12327,16 +12333,16 @@
       "Zoucheng",
       "Zunyi",
       "Zuxi"
-    ],
-    "dial_code": "+86",
-    "long": 105,
-    "lat": 35,
-    "iso2": "CN",
-    "iso3": "CHN",
-    "name": "China"
+    ]
   },
   {
+    "name": "Colombia",
+    "iso2": "CO",
+    "iso3": "COL",
+    "long": -72,
+    "lat": 4,
     "currency": "COP",
+    "dial_code": "+57",
     "capital": "Bogota",
     "cities": [
       "Acacias",
@@ -12450,31 +12456,31 @@
       "Yopal",
       "Yotoco",
       "Yumbo"
-    ],
-    "dial_code": "+57",
-    "long": -72,
-    "lat": 4,
-    "iso2": "CO",
-    "iso3": "COL",
-    "name": "Colombia"
+    ]
   },
   {
+    "name": "Comoros",
+    "iso2": "KM",
+    "iso3": "COM",
+    "long": 44.25,
+    "lat": -12.1667,
     "currency": "KMF",
+    "dial_code": "+269",
     "capital": "Moroni",
     "cities": [
       "Grande Comore (Njazidja)",
       "Anjouan (Nzwani)",
       "Moheli (Mwali)"
-    ],
-    "dial_code": "+269",
-    "long": 44.25,
-    "lat": -12.1667,
-    "iso2": "KM",
-    "iso3": "COM",
-    "name": "Comoros"
+    ]
   },
   {
+    "name": "Congo",
+    "iso2": "CG",
+    "iso3": "COG",
+    "long": 15,
+    "lat": -1,
     "currency": "XAF",
+    "dial_code": "+242",
     "capital": "Brazzaville",
     "cities": [
       "Banana",
@@ -12482,16 +12488,16 @@
       "Kinshasa",
       "Likasi",
       "Lubumbashi"
-    ],
-    "dial_code": "+242",
-    "long": 15,
-    "lat": -1,
-    "iso2": "CG",
-    "iso3": "COG",
-    "name": "Congo"
+    ]
   },
   {
+    "name": "Costa Rica",
+    "iso2": "CR",
+    "iso3": "CRI",
+    "long": -84,
+    "lat": 10,
     "currency": "CRC",
+    "dial_code": "+506",
     "capital": "San Jose",
     "cities": [
       "Alajuela",
@@ -12558,16 +12564,16 @@
       "Turrucares",
       "Zapote",
       "Zarcero"
-    ],
-    "dial_code": "+506",
-    "long": -84,
-    "lat": 10,
-    "iso2": "CR",
-    "iso3": "CRI",
-    "name": "Costa Rica"
+    ]
   },
   {
+    "name": "Croatia",
+    "iso2": "HR",
+    "iso3": "HRV",
+    "long": 15.5,
+    "lat": 45.1667,
     "currency": "HRK",
+    "dial_code": "+385",
     "capital": "Zagreb",
     "cities": [
       "Antunovac",
@@ -12711,16 +12717,16 @@
       "Zagreb",
       "Zapresic",
       "Zlatar"
-    ],
-    "dial_code": "+385",
-    "long": 15.5,
-    "lat": 45.1667,
-    "iso2": "HR",
-    "iso3": "HRV",
-    "name": "Croatia"
+    ]
   },
   {
+    "name": "Cuba",
+    "iso2": "CU",
+    "iso3": "CUB",
+    "long": -80,
+    "lat": 21.5,
     "currency": "CUP",
+    "dial_code": "+53",
     "capital": "Havana",
     "cities": [
       "Bayamo",
@@ -12733,16 +12739,16 @@
       "Santiago de Cuba",
       "Varadero",
       "Villa"
-    ],
-    "dial_code": "+53",
-    "long": -80,
-    "lat": 21.5,
-    "iso2": "CU",
-    "iso3": "CUB",
-    "name": "Cuba"
+    ]
   },
   {
+    "name": "Cyprus",
+    "iso2": "CY",
+    "iso3": "CYP",
+    "long": 33,
+    "lat": 35,
     "currency": "EUR",
+    "dial_code": "+357",
     "capital": "Nicosia",
     "cities": [
       "Agia Anna",
@@ -12770,16 +12776,16 @@
       "Sotira",
       "Strovolos",
       "Tera"
-    ],
-    "dial_code": "+357",
-    "long": 33,
-    "lat": 35,
-    "iso2": "CY",
-    "iso3": "CYP",
-    "name": "Cyprus"
+    ]
   },
   {
+    "name": "Czech Republic",
+    "iso2": "CZ",
+    "iso3": "CZE",
+    "long": 15.5,
+    "lat": 49.75,
     "currency": "CZK",
+    "dial_code": "+420",
     "capital": "Prague",
     "cities": [
       "Adamov",
@@ -13722,16 +13728,16 @@
       "Zubri",
       "Zulova",
       "Zvole"
-    ],
-    "dial_code": "+420",
-    "long": 15.5,
-    "lat": 49.75,
-    "iso2": "CZ",
-    "iso3": "CZE",
-    "name": "Czech Republic"
+    ]
   },
   {
+    "name": "Denmark",
+    "iso2": "DK",
+    "iso3": "DNK",
+    "long": 10,
+    "lat": 56,
     "currency": "DKK",
+    "dial_code": "+45",
     "capital": "Copenhagen",
     "cities": [
       "Aabenraa",
@@ -14301,16 +14307,16 @@
       "Vorbasse",
       "Vordingborg",
       "Vra"
-    ],
-    "dial_code": "+45",
-    "long": 10,
-    "lat": 56,
-    "iso2": "DK",
-    "iso3": "DNK",
-    "name": "Denmark"
+    ]
   },
   {
+    "name": "Djibouti",
+    "iso2": "DJ",
+    "iso3": "DJI",
+    "long": 43,
+    "lat": 11.5,
     "currency": "DJF",
+    "dial_code": "+253",
     "capital": "Djibouti",
     "cities": [
       "Ali Sabih",
@@ -14318,16 +14324,16 @@
       "Djibouti",
       "Obock",
       "Tadjoura"
-    ],
-    "dial_code": "+253",
-    "long": 43,
-    "lat": 11.5,
-    "iso2": "DJ",
-    "iso3": "DJI",
-    "name": "Djibouti"
+    ]
   },
   {
+    "name": "Dominica",
+    "iso2": "DM",
+    "iso3": "DMA",
+    "long": -61.3333,
+    "lat": 15.4167,
     "currency": "XCD",
+    "dial_code": "+1 767",
     "capital": "Roseau",
     "cities": [
       "Saint Andrew",
@@ -14340,16 +14346,16 @@
       "Saint Patrick",
       "Saint Paul",
       "Saint Peter"
-    ],
-    "dial_code": "+1 767",
-    "long": -61.3333,
-    "lat": 15.4167,
-    "iso2": "DM",
-    "iso3": "DMA",
-    "name": "Dominica"
+    ]
   },
   {
+    "name": "Dominican Republic",
+    "iso2": "DO",
+    "iso3": "DOM",
+    "long": -70.6667,
+    "lat": 19,
     "currency": "DOP",
+    "dial_code": "+1 849",
     "capital": "Santo Domingo",
     "cities": [
       "Arenazo",
@@ -14375,16 +14381,16 @@
       "Santa Cruz de Barahona",
       "Santiago de los Caballeros",
       "Santo Domingo"
-    ],
-    "dial_code": "+1 849",
-    "long": -70.6667,
-    "lat": 19,
-    "iso2": "DO",
-    "iso3": "DOM",
-    "name": "Dominican Republic"
+    ]
   },
   {
+    "name": "Timor-Leste",
+    "iso2": "TL",
+    "iso3": "TLS",
+    "long": 125.5167,
+    "lat": -8.55,
     "currency": "USD",
+    "dial_code": "+670",
     "capital": "Dili",
     "cities": [
       "Aileu",
@@ -14400,32 +14406,32 @@
       "Manufahi",
       "Oecussi",
       "Viqueque"
-    ],
-    "dial_code": "+670",
-    "long": 125.5167,
-    "lat": -8.55,
-    "iso2": "TL",
-    "iso3": "TLS",
-    "name": "Timor-Leste"
+    ]
   },
   {
+    "name": "Tokelau",
+    "iso2": "TK",
+    "iso3": "TKL",
+    "long": -172,
+    "lat": -9,
     "currency": "NZD",
+    "dial_code": "+690",
     "capital": "",
     "cities": [
       "Atafu Village (village)",
       "Nukunonu (village)",
       "Fakaofo (village)",
       "Fale (village)"
-    ],
-    "dial_code": "+690",
-    "long": -172,
-    "lat": -9,
-    "iso2": "TK",
-    "iso3": "TKL",
-    "name": "Tokelau"
+    ]
   },
   {
+    "name": "Turks and Caicos Islands",
+    "iso2": "TC",
+    "iso3": "TCA",
+    "long": -71.5833,
+    "lat": 21.75,
     "currency": "USD",
+    "dial_code": "+1 649",
     "capital": "Cockburn Town",
     "cities": [
       "Back Salina",
@@ -14462,16 +14468,16 @@
       "West Road",
       "Wheeland",
       "Whitby"
-    ],
-    "dial_code": "+1 649",
-    "long": -71.5833,
-    "lat": 21.75,
-    "iso2": "TC",
-    "iso3": "TCA",
-    "name": "Turks and Caicos Islands"
+    ]
   },
   {
+    "name": "Ecuador",
+    "iso2": "EC",
+    "iso3": "ECU",
+    "long": -77.5,
+    "lat": -2,
     "currency": "USD",
+    "dial_code": "+593",
     "capital": "Quito",
     "cities": [
       "Ambato",
@@ -14543,16 +14549,16 @@
       "Zamora",
       "Zaruma",
       "Zumba"
-    ],
-    "dial_code": "+593",
-    "long": -77.5,
-    "lat": -2,
-    "iso2": "EC",
-    "iso3": "ECU",
-    "name": "Ecuador"
+    ]
   },
   {
+    "name": "Egypt",
+    "iso2": "EG",
+    "iso3": "EGY",
+    "long": 30,
+    "lat": 27,
     "currency": "EGP",
+    "dial_code": "+20",
     "capital": "Cairo",
     "cities": [
       "Abu Hammad",
@@ -14594,16 +14600,16 @@
       "Tanta",
       "Toukh",
       "Zagazig"
-    ],
-    "dial_code": "+20",
-    "long": 30,
-    "lat": 27,
-    "iso2": "EG",
-    "iso3": "EGY",
-    "name": "Egypt"
+    ]
   },
   {
+    "name": "El Salvador",
+    "iso2": "SV",
+    "iso3": "SLV",
+    "long": -88.9167,
+    "lat": 13.8333,
     "currency": "USD",
+    "dial_code": "+503",
     "capital": "San Salvador",
     "cities": [
       "Ahuachapan",
@@ -14636,16 +14642,16 @@
       "Soyapango",
       "Usulutan",
       "Zaragoza"
-    ],
-    "dial_code": "+503",
-    "long": -88.9167,
-    "lat": 13.8333,
-    "iso2": "SV",
-    "iso3": "SLV",
-    "name": "El Salvador"
+    ]
   },
   {
+    "name": "Equatorial Guinea",
+    "iso2": "GQ",
+    "iso3": "GNQ",
+    "long": 10,
+    "lat": 2,
     "currency": "XAF",
+    "dial_code": "+240",
     "capital": "Malabo",
     "cities": [
       "Annobon",
@@ -14655,16 +14661,16 @@
       "Kie-Ntem",
       "Litoral",
       "Wele-Nzas"
-    ],
-    "dial_code": "+240",
-    "long": 10,
-    "lat": 2,
-    "iso2": "GQ",
-    "iso3": "GNQ",
-    "name": "Equatorial Guinea"
+    ]
   },
   {
+    "name": "Eritrea",
+    "iso2": "ER",
+    "iso3": "ERI",
+    "long": 39,
+    "lat": 15,
     "currency": "ERN",
+    "dial_code": "+291",
     "capital": "Asmara",
     "cities": [
       "Anseba",
@@ -14673,16 +14679,16 @@
       "Gash Barka",
       "Ma'akel",
       "Semenawi Keyih Bahri"
-    ],
-    "dial_code": "+291",
-    "long": 39,
-    "lat": 15,
-    "iso2": "ER",
-    "iso3": "ERI",
-    "name": "Eritrea"
+    ]
   },
   {
+    "name": "Estonia",
+    "iso2": "EE",
+    "iso3": "EST",
+    "long": 26,
+    "lat": 59,
     "currency": "EUR",
+    "dial_code": "+372",
     "capital": "Tallinn",
     "cities": [
       "Aasmae",
@@ -14752,16 +14758,16 @@
       "Viimsi",
       "Viljandi",
       "Voka"
-    ],
-    "dial_code": "+372",
-    "long": 26,
-    "lat": 59,
-    "iso2": "EE",
-    "iso3": "EST",
-    "name": "Estonia"
+    ]
   },
   {
+    "name": "Ethiopia",
+    "iso2": "ET",
+    "iso3": "ETH",
+    "long": 38,
+    "lat": 8,
     "currency": "ETB",
+    "dial_code": "+251",
     "capital": "Addis Ababa",
     "cities": [
       "Addis Ababa",
@@ -14775,16 +14781,16 @@
       "Somali",
       "Tigray",
       "Southern Nations, Nationalities, and Peoples Region"
-    ],
-    "dial_code": "+251",
-    "long": 38,
-    "lat": 8,
-    "iso2": "ET",
-    "iso3": "ETH",
-    "name": "Ethiopia"
+    ]
   },
   {
+    "name": "Faroe Islands",
+    "iso2": "FO",
+    "iso3": "FRO",
+    "long": -7,
+    "lat": 62,
     "currency": "DKK",
+    "dial_code": "+298",
     "capital": "Torshavn",
     "cities": [
       "Argir",
@@ -14795,16 +14801,16 @@
       "Saltangara",
       "Signabour",
       "Strendur"
-    ],
-    "dial_code": "+298",
-    "long": -7,
-    "lat": 62,
-    "iso2": "FO",
-    "iso3": "FRO",
-    "name": "Faroe Islands"
+    ]
   },
   {
+    "name": "Falkland Islands",
+    "iso2": "FK",
+    "iso3": "FLK",
+    "long": -59,
+    "lat": -51.75,
     "currency": "FKP",
+    "dial_code": "+500",
     "capital": "Stanley",
     "cities": [
       "Ajax Bay",
@@ -14872,16 +14878,16 @@
       "Walker Creek",
       "Weddell Settlement",
       "Westpoint Island Settlement"
-    ],
-    "dial_code": "+500",
-    "long": -59,
-    "lat": -51.75,
-    "iso2": "FK",
-    "iso3": "FLK",
-    "name": "Falkland Islands"
+    ]
   },
   {
+    "name": "Fiji",
+    "iso2": "FJ",
+    "iso3": "FJI",
+    "long": 175,
+    "lat": -18,
     "currency": "FJD",
+    "dial_code": "+679",
     "capital": "Suva",
     "cities": [
       "Central (Suva)",
@@ -14889,16 +14895,16 @@
       "Northern (Labasa)",
       "Rotuma",
       "Western (Lautoka)"
-    ],
-    "dial_code": "+679",
-    "long": 175,
-    "lat": -18,
-    "iso2": "FJ",
-    "iso3": "FJI",
-    "name": "Fiji"
+    ]
   },
   {
+    "name": "Finland",
+    "iso2": "FI",
+    "iso3": "FIN",
+    "long": 26,
+    "lat": 64,
     "currency": "EUR",
+    "dial_code": "+358",
     "capital": "Helsinki",
     "cities": [
       "Aapajoki",
@@ -15372,16 +15378,16 @@
       "Ylitornio",
       "Ylivieska",
       "Ypaejae"
-    ],
-    "dial_code": "+358",
-    "long": 26,
-    "lat": 64,
-    "iso2": "FI",
-    "iso3": "FIN",
-    "name": "Finland"
+    ]
   },
   {
+    "name": "France",
+    "iso2": "FR",
+    "iso3": "FRA",
+    "long": 2,
+    "lat": 46,
     "currency": "EUR",
+    "dial_code": "+33",
     "capital": "Paris",
     "cities": [
       "Aast",
@@ -27932,16 +27938,16 @@
       "Zittersheim",
       "Zouafques",
       "Zutzendorf"
-    ],
-    "dial_code": "+33",
-    "long": 2,
-    "lat": 46,
-    "iso2": "FR",
-    "iso3": "FRA",
-    "name": "France"
+    ]
   },
   {
+    "name": "French Polynesia",
+    "iso2": "PF",
+    "iso3": "PYF",
+    "long": -140,
+    "lat": -15,
     "currency": "XPF",
+    "dial_code": "+689",
     "capital": "Papeete",
     "cities": [
       "Arue",
@@ -27951,16 +27957,16 @@
       "Papeete",
       "Pirae",
       "Punaauia"
-    ],
-    "dial_code": "+689",
-    "long": -140,
-    "lat": -15,
-    "iso2": "PF",
-    "iso3": "PYF",
-    "name": "French Polynesia"
+    ]
   },
   {
+    "name": "Gabon",
+    "iso2": "GA",
+    "iso3": "GAB",
+    "long": 11.75,
+    "lat": -1,
     "currency": "XAF",
+    "dial_code": "+241",
     "capital": "Libreville",
     "cities": [
       "Gamba",
@@ -27968,16 +27974,16 @@
       "Mamagnia",
       "Moanda",
       "Port-Gentil"
-    ],
-    "dial_code": "+241",
-    "long": 11.75,
-    "lat": -1,
-    "iso2": "GA",
-    "iso3": "GAB",
-    "name": "Gabon"
+    ]
   },
   {
+    "name": "Gambia",
+    "iso2": "GM",
+    "iso3": "GMB",
+    "long": -16.5667,
+    "lat": 13.4667,
     "currency": "GMD",
+    "dial_code": "+220",
     "capital": "Banjul",
     "cities": [
       "Banjul",
@@ -27986,16 +27992,16 @@
       "North Bank",
       "Upper River",
       "Western"
-    ],
-    "dial_code": "+220",
-    "long": -16.5667,
-    "lat": 13.4667,
-    "iso2": "GM",
-    "iso3": "GMB",
-    "name": "Gambia"
+    ]
   },
   {
+    "name": "Georgia",
+    "iso2": "GE",
+    "iso3": "GEO",
+    "long": 43.5,
+    "lat": 42,
     "currency": "GEL",
+    "dial_code": "+995",
     "capital": "Tbilisi",
     "cities": [
       "Gogolesubani",
@@ -28007,16 +28013,16 @@
       "Tbilisi",
       "Zemo-Avchala",
       "Zugdidi"
-    ],
-    "dial_code": "+995",
-    "long": 43.5,
-    "lat": 42,
-    "iso2": "GE",
-    "iso3": "GEO",
-    "name": "Georgia"
+    ]
   },
   {
+    "name": "Gibraltar",
+    "iso2": "GI",
+    "iso3": "GIB",
+    "long": -5.3667,
+    "lat": 36.1833,
     "currency": "GIP",
+    "dial_code": "+350",
     "capital": "Gibraltar",
     "cities": [
       "Alameda de los Monos",
@@ -28055,16 +28061,16 @@
       "ጅብራልታር",
       "ジブラルタル",
       "直布罗陀"
-    ],
-    "dial_code": "+350",
-    "long": -5.3667,
-    "lat": 36.1833,
-    "iso2": "GI",
-    "iso3": "GIB",
-    "name": "Gibraltar"
+    ]
   },
   {
+    "name": "Germany",
+    "iso2": "DE",
+    "iso3": "DEU",
+    "long": 9,
+    "lat": 51,
     "currency": "EUR",
+    "dial_code": "+49",
     "capital": "Berlin",
     "cities": [
       "Aach",
@@ -35316,16 +35322,16 @@
       "Zwiesel",
       "Zwingenberg",
       "Zwonitz"
-    ],
-    "dial_code": "+49",
-    "long": 9,
-    "lat": 51,
-    "iso2": "DE",
-    "iso3": "DEU",
-    "name": "Germany"
+    ]
   },
   {
+    "name": "Ghana",
+    "iso2": "GH",
+    "iso3": "GHA",
+    "long": -2,
+    "lat": 8,
     "currency": "GHS",
+    "dial_code": "+233",
     "capital": "Accra",
     "cities": [
       "Accra",
@@ -35344,15 +35350,12 @@
       "Tema",
       "Wa",
       "Winneba"
-    ],
-    "dial_code": "+233",
-    "long": -2,
-    "lat": 8,
-    "iso2": "GH",
-    "iso3": "GHA",
-    "name": "Ghana"
+    ]
   },
   {
+    "name": "Greece",
+    "iso2": "GR",
+    "iso3": "GRC",
     "currency": "EUR",
     "capital": "Athens",
     "cities": [
@@ -35521,13 +35524,16 @@
       "Xanthi",
       "Xylokastro",
       "Zakynthos"
-    ],
-    "iso2": "GR",
-    "iso3": "GRC",
-    "name": "Greece"
+    ]
   },
   {
+    "name": "Greenland",
+    "iso2": "GL",
+    "iso3": "GRL",
+    "long": -40,
+    "lat": 72,
     "currency": "DKK",
+    "dial_code": "+299",
     "capital": "Nuuk",
     "cities": [
       "Aasiaat",
@@ -35547,16 +35553,16 @@
       "Tasiilaq",
       "Upernavik",
       "Uummannaq Kommune"
-    ],
-    "dial_code": "+299",
-    "long": -40,
-    "lat": 72,
-    "iso2": "GL",
-    "iso3": "GRL",
-    "name": "Greenland"
+    ]
   },
   {
+    "name": "Guadeloupe",
+    "iso2": "GP",
+    "iso3": "GLP",
+    "long": -61.5833,
+    "lat": 16.25,
     "currency": "EUR",
+    "dial_code": "+590",
     "capital": "Basse-Terre",
     "cities": [
       "Anse-Bertrand",
@@ -35587,16 +35593,16 @@
       "Terre-de-Haut",
       "Trois-Rivieres",
       "Village"
-    ],
-    "dial_code": "+590",
-    "long": -61.5833,
-    "lat": 16.25,
-    "iso2": "GP",
-    "iso3": "GLP",
-    "name": "Guadeloupe"
+    ]
   },
   {
+    "name": "Grenada",
+    "iso2": "GD",
+    "iso3": "GRD",
+    "long": -61.6667,
+    "lat": 12.1167,
     "currency": "XCD",
+    "dial_code": "+1 473",
     "capital": "St. George's",
     "cities": [
       "Carriacou and Petit Martinique",
@@ -35606,16 +35612,16 @@
       "Saint John",
       "Saint Mark",
       "Saint Patrick"
-    ],
-    "dial_code": "+1 473",
-    "long": -61.6667,
-    "lat": 12.1167,
-    "iso2": "GD",
-    "iso3": "GRD",
-    "name": "Grenada"
+    ]
   },
   {
+    "name": "Guernsey",
+    "iso2": "GG",
+    "iso3": "GGY",
+    "long": -2.56,
+    "lat": 49.5,
     "currency": "GBP",
+    "dial_code": "+44",
     "capital": "St Peter Port",
     "cities": [
       "Saint Peter Port",
@@ -35626,16 +35632,16 @@
       "St Anne",
       "Saint Sampson",
       "Torteval"
-    ],
-    "dial_code": "+44",
-    "long": -2.56,
-    "lat": 49.5,
-    "iso2": "GG",
-    "iso3": "GGY",
-    "name": "Guernsey"
+    ]
   },
   {
+    "name": "Guatemala",
+    "iso2": "GT",
+    "iso3": "GTM",
+    "long": -90.25,
+    "lat": 15.5,
     "currency": "GTQ",
+    "dial_code": "+502",
     "capital": "Guatemala City",
     "cities": [
       "Antigua Guatemala",
@@ -35681,16 +35687,16 @@
       "Villa Nueva",
       "Vista Hermosa",
       "Zacapa"
-    ],
-    "dial_code": "+502",
-    "long": -90.25,
-    "lat": 15.5,
-    "iso2": "GT",
-    "iso3": "GTM",
-    "name": "Guatemala"
+    ]
   },
   {
+    "name": "Guam",
+    "iso2": "GU",
+    "iso3": "GUM",
+    "long": 144.7833,
+    "lat": 13.4667,
     "currency": "USD",
+    "dial_code": "+1 671",
     "capital": "Hagatna",
     "cities": [
       "Barrigada Village",
@@ -35699,16 +35705,16 @@
       "Santa Rita",
       "Tamuning-Tumon-Harmon Village",
       "Yigo Village"
-    ],
-    "dial_code": "+1 671",
-    "long": 144.7833,
-    "lat": 13.4667,
-    "iso2": "GU",
-    "iso3": "GUM",
-    "name": "Guam"
+    ]
   },
   {
+    "name": "Guinea",
+    "iso2": "GN",
+    "iso3": "GIN",
+    "long": -10,
+    "lat": 11,
     "currency": "GNF",
+    "dial_code": "+224",
     "capital": "Conakry",
     "cities": [
       "Conakry",
@@ -35719,16 +35725,16 @@
       "Mamou",
       "Port Kamsar",
       "Sangaredi"
-    ],
-    "dial_code": "+224",
-    "long": -10,
-    "lat": 11,
-    "iso2": "GN",
-    "iso3": "GIN",
-    "name": "Guinea"
+    ]
   },
   {
+    "name": "Guinea-Bissau",
+    "iso2": "GW",
+    "iso3": "GNB",
+    "long": -15,
+    "lat": 12,
     "currency": "XOF",
+    "dial_code": "+245",
     "capital": "Bissau",
     "cities": [
       "Bafata",
@@ -35740,16 +35746,16 @@
       "Oio",
       "Quinara",
       "Tombali"
-    ],
-    "dial_code": "+245",
-    "long": -15,
-    "lat": 12,
-    "iso2": "GW",
-    "iso3": "GNB",
-    "name": "Guinea-Bissau"
+    ]
   },
   {
+    "name": "Guyana",
+    "iso2": "GY",
+    "iso3": "GUY",
+    "long": -59,
+    "lat": 5,
     "currency": "GYD",
+    "dial_code": "+592",
     "capital": "Georgetown",
     "cities": [
       "Barima-Waini",
@@ -35762,16 +35768,16 @@
       "Potaro-Siparuni",
       "Upper Demerara-Berbice",
       "Upper Takutu-Upper Essequibo"
-    ],
-    "dial_code": "+592",
-    "long": -59,
-    "lat": 5,
-    "iso2": "GY",
-    "iso3": "GUY",
-    "name": "Guyana"
+    ]
   },
   {
+    "name": "Haiti",
+    "iso2": "HT",
+    "iso3": "HTI",
+    "long": -72.4167,
+    "lat": 19,
     "currency": "HTG",
+    "dial_code": "+509",
     "capital": "Port-au-Prince",
     "cities": [
       "Carrefour",
@@ -35784,27 +35790,27 @@
       "Port-au-Prince",
       "Prince",
       "Turgeau"
-    ],
-    "dial_code": "+509",
-    "long": -72.4167,
-    "lat": 19,
-    "iso2": "HT",
-    "iso3": "HTI",
-    "name": "Haiti"
+    ]
   },
   {
-    "currency": "AUD",
-    "capital": "",
-    "cities": [],
-    "dial_code": "+672",
-    "long": 72.5167,
-    "lat": -53.1,
+    "name": "Heard Island and McDonald Islands",
     "iso2": "HM",
     "iso3": "HMD",
-    "name": "Heard Island and McDonald Islands"
+    "long": 72.5167,
+    "lat": -53.1,
+    "currency": "AUD",
+    "dial_code": "+672",
+    "capital": "",
+    "cities": []
   },
   {
+    "name": "Jordan",
+    "iso2": "JO",
+    "iso3": "JOR",
+    "long": 36,
+    "lat": 31,
     "currency": "JOD",
+    "dial_code": "+962",
     "capital": "Amman",
     "cities": [
       "Amman",
@@ -35824,16 +35830,16 @@
       "Salt",
       "Jarash",
       "Ma'an"
-    ],
-    "dial_code": "+962",
-    "long": 36,
-    "lat": 31,
-    "iso2": "JO",
-    "iso3": "JOR",
-    "name": "Jordan"
+    ]
   },
   {
+    "name": "Honduras",
+    "iso2": "HN",
+    "iso3": "HND",
+    "long": -86.5,
+    "lat": 15,
     "currency": "HNL",
+    "dial_code": "+504",
     "capital": "Tegucigalpa",
     "cities": [
       "Honduras",
@@ -35856,16 +35862,16 @@
       "Santa Barbara",
       "Sula",
       "Tegucigalpa"
-    ],
-    "dial_code": "+504",
-    "long": -86.5,
-    "lat": 15,
-    "iso2": "HN",
-    "iso3": "HND",
-    "name": "Honduras"
+    ]
   },
   {
+    "name": "Hong Kong",
+    "iso2": "HK",
+    "iso3": "HKG",
+    "long": 114.1667,
+    "lat": 22.25,
     "currency": "HKD",
+    "dial_code": "+852",
     "capital": "Hong Kong",
     "cities": [
       "Aberdeen",
@@ -35950,16 +35956,16 @@
       "Yau Ma Tei",
       "Ying Pun",
       "Yuen Long San Hui"
-    ],
-    "dial_code": "+852",
-    "long": 114.1667,
-    "lat": 22.25,
-    "iso2": "HK",
-    "iso3": "HKG",
-    "name": "Hong Kong"
+    ]
   },
   {
+    "name": "Hungary",
+    "iso2": "HU",
+    "iso3": "HUN",
+    "long": 20,
+    "lat": 47,
     "currency": "HUF",
+    "dial_code": "+36",
     "capital": "Budapest",
     "cities": [
       "Abaujszanto",
@@ -36701,16 +36707,16 @@
       "Zsambek",
       "Zsambok",
       "Zsombo"
-    ],
-    "dial_code": "+36",
-    "long": 20,
-    "lat": 47,
-    "iso2": "HU",
-    "iso3": "HUN",
-    "name": "Hungary"
+    ]
   },
   {
+    "name": "Iceland",
+    "iso2": "IS",
+    "iso3": "ISL",
+    "long": -18,
+    "lat": 65,
     "currency": "ISK",
+    "dial_code": "+354",
     "capital": "Reykjavik",
     "cities": [
       "Akranes",
@@ -36731,16 +36737,16 @@
       "Stokkseyri",
       "Vestmannaeyjar",
       "Vogar"
-    ],
-    "dial_code": "+354",
-    "long": -18,
-    "lat": 65,
-    "iso2": "IS",
-    "iso3": "ISL",
-    "name": "Iceland"
+    ]
   },
   {
+    "name": "India",
+    "iso2": "IN",
+    "iso3": "IND",
+    "long": 77,
+    "lat": 20,
     "currency": "INR",
+    "dial_code": "+91",
     "capital": "New Delhi",
     "cities": [
       "Abdul",
@@ -37753,16 +37759,16 @@
       "Yavatmal",
       "Yeola",
       "Yercaud"
-    ],
-    "dial_code": "+91",
-    "long": 77,
-    "lat": 20,
-    "iso2": "IN",
-    "iso3": "IND",
-    "name": "India"
+    ]
   },
   {
+    "name": "Indonesia",
+    "iso2": "ID",
+    "iso3": "IDN",
+    "long": 120,
+    "lat": -5,
     "currency": "IDR",
+    "dial_code": "+62",
     "capital": "Jakarta",
     "cities": [
       "Abadi",
@@ -38034,16 +38040,16 @@
       "Wonosari",
       "Wonosobo",
       "Yogyakarta"
-    ],
-    "dial_code": "+62",
-    "long": 120,
-    "lat": -5,
-    "iso2": "ID",
-    "iso3": "IDN",
-    "name": "Indonesia"
+    ]
   },
   {
+    "name": "Iran",
+    "iso2": "IR",
+    "iso3": "IRN",
+    "long": 53,
+    "lat": 32,
     "currency": "IRR",
+    "dial_code": "+98",
     "capital": "Tehran",
     "cities": [
       "`Aliabad",
@@ -38279,16 +38285,16 @@
       "Zangiabad",
       "Zanjan",
       "Zarand"
-    ],
-    "dial_code": "+98",
-    "long": 53,
-    "lat": 32,
-    "iso2": "IR",
-    "iso3": "IRN",
-    "name": "Iran"
+    ]
   },
   {
+    "name": "Iraq",
+    "iso2": "IQ",
+    "iso3": "IRQ",
+    "long": 44,
+    "lat": 33,
     "currency": "IQD",
+    "dial_code": "+964",
     "capital": "Baghdad",
     "cities": [
       "Al `Amarah",
@@ -38307,16 +38313,16 @@
       "Najaf",
       "Sulaymaniyah",
       "Tikrit"
-    ],
-    "dial_code": "+964",
-    "long": 44,
-    "lat": 33,
-    "iso2": "IQ",
-    "iso3": "IRQ",
-    "name": "Iraq"
+    ]
   },
   {
+    "name": "Ireland",
+    "iso2": "IE",
+    "iso3": "IRL",
+    "long": -8,
+    "lat": 53,
     "currency": "EUR",
+    "dial_code": "+353",
     "capital": "Dublin",
     "cities": [
       "Abbeyfeale",
@@ -38610,16 +38616,16 @@
       "Williamstown",
       "Windy Arbour",
       "Youghal"
-    ],
-    "dial_code": "+353",
-    "long": -8,
-    "lat": 53,
-    "iso2": "IE",
-    "iso3": "IRL",
-    "name": "Ireland"
+    ]
   },
   {
+    "name": "Isle of Man",
+    "iso2": "IM",
+    "iso3": "IMN",
+    "long": -4.55,
+    "lat": 54.23,
     "currency": "GBP",
+    "dial_code": "+44",
     "capital": "Douglas, Isle of Man",
     "cities": [
       "Ballasalla",
@@ -38635,16 +38641,16 @@
       "Port Saint Mary",
       "Ramsey",
       "Saint Johns"
-    ],
-    "dial_code": "+44",
-    "long": -4.55,
-    "lat": 54.23,
-    "iso2": "IM",
-    "iso3": "IMN",
-    "name": "Isle of Man"
+    ]
   },
   {
+    "name": "Israel",
+    "iso2": "IL",
+    "iso3": "ISR",
+    "long": 34.75,
+    "lat": 31.5,
     "currency": "ILS",
+    "dial_code": "+972",
     "capital": "Jerusalem",
     "cities": [
       "`Alma",
@@ -38798,16 +38804,16 @@
       "Yavne",
       "Yehud",
       "Zoran"
-    ],
-    "dial_code": "+972",
-    "long": 34.75,
-    "lat": 31.5,
-    "iso2": "IL",
-    "iso3": "ISR",
-    "name": "Israel"
+    ]
   },
   {
+    "name": "Italy",
+    "iso2": "IT",
+    "iso3": "ITA",
+    "long": 12.8333,
+    "lat": 42.8333,
     "currency": "EUR",
+    "dial_code": "+39",
     "capital": "Rome",
     "cities": [
       "Abano Terme",
@@ -43205,16 +43211,16 @@
       "Zollino",
       "Zoppola",
       "Zumaglia"
-    ],
-    "dial_code": "+39",
-    "long": 12.8333,
-    "lat": 42.8333,
-    "iso2": "IT",
-    "iso3": "ITA",
-    "name": "Italy"
+    ]
   },
   {
+    "name": "Ivory Coast",
+    "iso2": "CI",
+    "iso3": "CIV",
+    "long": -5,
+    "lat": 8,
     "currency": "XOF",
+    "dial_code": "+225",
     "capital": "Yamoussoukro",
     "cities": [
       "Abidjan",
@@ -43302,16 +43308,16 @@
       "Gontougo",
       "Sinfra",
       "Tanda"
-    ],
-    "dial_code": "+225",
-    "long": -5,
-    "lat": 8,
-    "iso2": "CI",
-    "iso3": "CIV",
-    "name": "Ivory Coast"
+    ]
   },
   {
+    "name": "Jamaica",
+    "iso2": "JM",
+    "iso3": "JAM",
+    "long": -77.5,
+    "lat": 18.25,
     "currency": "JMD",
+    "dial_code": "+1 876",
     "capital": "Kingston",
     "cities": [
       "Black River",
@@ -43331,29 +43337,29 @@
       "Portmore",
       "Runaway Bay",
       "Spanish Town"
-    ],
-    "dial_code": "+1 876",
-    "long": -77.5,
-    "lat": 18.25,
-    "iso2": "JM",
-    "iso3": "JAM",
-    "name": "Jamaica"
+    ]
   },
   {
+    "name": "Jersey",
+    "iso2": "JE",
+    "iso3": "JEY",
+    "long": -2.13,
+    "lat": 49.21,
     "currency": "GBP",
+    "dial_code": "+44",
     "capital": "Saint Helier",
     "cities": [
       "St. Helier (settlement)"
-    ],
-    "dial_code": "+44",
-    "long": -2.13,
-    "lat": 49.21,
-    "iso2": "JE",
-    "iso3": "JEY",
-    "name": "Jersey"
+    ]
   },
   {
+    "name": "Japan",
+    "iso2": "JP",
+    "iso3": "JPN",
+    "long": 138,
+    "lat": 36,
     "currency": "JPY",
+    "dial_code": "+81",
     "capital": "Tokyo",
     "cities": [
       "Abashiri",
@@ -44521,16 +44527,16 @@
       "Yuzawa",
       "Zama",
       "Zushi"
-    ],
-    "dial_code": "+81",
-    "long": 138,
-    "lat": 36,
-    "iso2": "JP",
-    "iso3": "JPN",
-    "name": "Japan"
+    ]
   },
   {
+    "name": "Kazakhstan",
+    "iso2": "KZ",
+    "iso3": "KAZ",
+    "long": 68,
+    "lat": 48,
     "currency": "KZT",
+    "dial_code": "+7",
     "capital": "Astana",
     "cities": [
       "Aksay",
@@ -44575,16 +44581,16 @@
       "Ust-Kamenogorsk",
       "Vostok",
       "Zyryanovsk"
-    ],
-    "dial_code": "+7",
-    "long": 68,
-    "lat": 48,
-    "iso2": "KZ",
-    "iso3": "KAZ",
-    "name": "Kazakhstan"
+    ]
   },
   {
+    "name": "Kenya",
+    "iso2": "KE",
+    "iso3": "KEN",
+    "long": 38,
+    "lat": 1,
     "currency": "KES",
+    "dial_code": "+254",
     "capital": "Nairobi",
     "cities": [
       "Bondo",
@@ -44610,27 +44616,27 @@
       "Thika",
       "Turbo",
       "Wote"
-    ],
-    "dial_code": "+254",
-    "long": 38,
-    "lat": 1,
-    "iso2": "KE",
-    "iso3": "KEN",
-    "name": "Kenya"
+    ]
   },
   {
-    "currency": "AUD",
-    "capital": "Tarawa",
-    "cities": [],
-    "dial_code": "+686",
-    "long": 173,
-    "lat": 1.4167,
+    "name": "Kiribati",
     "iso2": "KI",
     "iso3": "KIR",
-    "name": "Kiribati"
+    "long": 173,
+    "lat": 1.4167,
+    "currency": "AUD",
+    "dial_code": "+686",
+    "capital": "Tarawa",
+    "cities": []
   },
   {
+    "name": "North Korea",
+    "iso2": "KP",
+    "iso3": "PRK",
+    "long": 127,
+    "lat": 40,
     "currency": "KPW",
+    "dial_code": "+850",
     "capital": "Pyongyang",
     "cities": [
       "Chagang",
@@ -44646,15 +44652,12 @@
       "Najin",
       "Namp'o",
       "Pyongyang"
-    ],
-    "dial_code": "+850",
-    "long": 127,
-    "lat": 40,
-    "iso2": "KP",
-    "iso3": "PRK",
-    "name": "North Korea"
+    ]
   },
   {
+    "name": "Kosovo",
+    "iso2": "XK",
+    "iso3": "XKX",
     "currency": "EUR",
     "capital": "Pristina",
     "cities": [
@@ -44663,13 +44666,16 @@
       "Mitrovica",
       "Pristina",
       "Prizren"
-    ],
-    "iso2": "XK",
-    "iso3": "XKX",
-    "name": "Kosovo"
+    ]
   },
   {
+    "name": "Kuwait",
+    "iso2": "KW",
+    "iso3": "KWT",
+    "long": 47.6581,
+    "lat": 29.3375,
     "currency": "KWD",
+    "dial_code": "+965",
     "capital": "Kuwait City",
     "cities": [
       "Abraq Khaytan",
@@ -44688,16 +44694,16 @@
       "Kayfan",
       "Kuwait City",
       "Salwa"
-    ],
-    "dial_code": "+965",
-    "long": 47.6581,
-    "lat": 29.3375,
-    "iso2": "KW",
-    "iso3": "KWT",
-    "name": "Kuwait"
+    ]
   },
   {
+    "name": "Kyrgyzstan",
+    "iso2": "KG",
+    "iso3": "KGZ",
+    "long": 75,
+    "lat": 41,
     "currency": "KGS",
+    "dial_code": "+996",
     "capital": "Bishkek",
     "cities": [
       "Batken Oblasty",
@@ -44708,16 +44714,16 @@
       "Osh Oblasty",
       "Talas Oblasty",
       "Ysyk-Kol Oblasty"
-    ],
-    "dial_code": "+996",
-    "long": 75,
-    "lat": 41,
-    "iso2": "KG",
-    "iso3": "KGZ",
-    "name": "Kyrgyzstan"
+    ]
   },
   {
+    "name": "Laos",
+    "iso2": "LA",
+    "iso3": "LAO",
+    "long": 105,
+    "lat": 18,
     "currency": "LAK",
+    "dial_code": "+856",
     "capital": "Vientiane",
     "cities": [
       "Attapu",
@@ -44738,16 +44744,16 @@
       "Xaisomboun",
       "Xekong",
       "Xiangkhoang"
-    ],
-    "dial_code": "+856",
-    "long": 105,
-    "lat": 18,
-    "iso2": "LA",
-    "iso3": "LAO",
-    "name": "Laos"
+    ]
   },
   {
+    "name": "Latvia",
+    "iso2": "LV",
+    "iso3": "LVA",
+    "long": 25,
+    "lat": 57,
     "currency": "EUR",
+    "dial_code": "+371",
     "capital": "Riga",
     "cities": [
       "Adazi",
@@ -44798,16 +44804,16 @@
       "Ventspils",
       "Zasa",
       "Zilupe"
-    ],
-    "dial_code": "+371",
-    "long": 25,
-    "lat": 57,
-    "iso2": "LV",
-    "iso3": "LVA",
-    "name": "Latvia"
+    ]
   },
   {
+    "name": "Lebanon",
+    "iso2": "LB",
+    "iso3": "LBN",
+    "long": 35.8333,
+    "lat": 33.8333,
     "currency": "LBP",
+    "dial_code": "+961",
     "capital": "Beirut",
     "cities": [
       "Aaley",
@@ -44828,16 +44834,16 @@
       "Tripoli",
       "Yanar",
       "Zgharta"
-    ],
-    "dial_code": "+961",
-    "long": 35.8333,
-    "lat": 33.8333,
-    "iso2": "LB",
-    "iso3": "LBN",
-    "name": "Lebanon"
+    ]
   },
   {
+    "name": "Lesotho",
+    "iso2": "LS",
+    "iso3": "LSO",
+    "long": 28.5,
+    "lat": -29.5,
     "currency": "LSL",
+    "dial_code": "+266",
     "capital": "Maseru",
     "cities": [
       "Berea",
@@ -44850,16 +44856,16 @@
       "Qacha's Nek",
       "Quthing",
       "Thaba-Tseka"
-    ],
-    "dial_code": "+266",
-    "long": 28.5,
-    "lat": -29.5,
-    "iso2": "LS",
-    "iso3": "LSO",
-    "name": "Lesotho"
+    ]
   },
   {
+    "name": "Liberia",
+    "iso2": "LR",
+    "iso3": "LBR",
+    "long": -9.5,
+    "lat": 6.5,
     "currency": "LRD",
+    "dial_code": "+231",
     "capital": "Monrovia",
     "cities": [
       "Bomi",
@@ -44877,16 +44883,16 @@
       "River Cess",
       "River Gee",
       "Sinoe"
-    ],
-    "dial_code": "+231",
-    "long": -9.5,
-    "lat": 6.5,
-    "iso2": "LR",
-    "iso3": "LBR",
-    "name": "Liberia"
+    ]
   },
   {
+    "name": "Libya",
+    "iso2": "LY",
+    "iso3": "LBY",
+    "long": 17,
+    "lat": 25,
     "currency": "LYD",
+    "dial_code": "+218",
     "capital": "Tripolis",
     "cities": [
       "Benghazi",
@@ -44894,16 +44900,16 @@
       "Sabha",
       "Tripoli",
       "Zliten"
-    ],
-    "dial_code": "+218",
-    "long": 17,
-    "lat": 25,
-    "iso2": "LY",
-    "iso3": "LBY",
-    "name": "Libya"
+    ]
   },
   {
+    "name": "Liechtenstein",
+    "iso2": "LI",
+    "iso3": "LIE",
+    "long": 9.5333,
+    "lat": 47.1667,
     "currency": "CHF",
+    "dial_code": "+423",
     "capital": "Vaduz",
     "cities": [
       "Balzers",
@@ -44920,16 +44926,16 @@
       "Triesen",
       "Triesenberg",
       "Vaduz"
-    ],
-    "dial_code": "+423",
-    "long": 9.5333,
-    "lat": 47.1667,
-    "iso2": "LI",
-    "iso3": "LIE",
-    "name": "Liechtenstein"
+    ]
   },
   {
+    "name": "Luxembourg",
+    "iso2": "LU",
+    "iso3": "LUX",
+    "long": 6.1667,
+    "lat": 49.75,
     "currency": "EUR",
+    "dial_code": "+352",
     "capital": "Luxembourg",
     "cities": [
       "Ahn",
@@ -45048,16 +45054,16 @@
       "Wasserbillig",
       "Wolpert",
       "Wormeldange"
-    ],
-    "dial_code": "+352",
-    "long": 6.1667,
-    "lat": 49.75,
-    "iso2": "LU",
-    "iso3": "LUX",
-    "name": "Luxembourg"
+    ]
   },
   {
+    "name": "Macedonia",
+    "iso2": "MK",
+    "iso3": "MKD",
+    "long": 22,
+    "lat": 41.8333,
     "currency": "MKD",
+    "dial_code": "+389",
     "capital": "Skopje",
     "cities": [
       "Berovo",
@@ -45090,16 +45096,16 @@
       "Strumica",
       "Tetovo",
       "Veles"
-    ],
-    "dial_code": "+389",
-    "long": 22,
-    "lat": 41.8333,
-    "iso2": "MK",
-    "iso3": "MKD",
-    "name": "Macedonia"
+    ]
   },
   {
+    "name": "Madagascar",
+    "iso2": "MG",
+    "iso3": "MDG",
+    "long": 47,
+    "lat": -20,
     "currency": "MGA",
+    "dial_code": "+261",
     "capital": "Antananarivo",
     "cities": [
       "Ambanja",
@@ -45109,16 +45115,16 @@
       "Fianarantsoa",
       "Toamasina",
       "Toliara"
-    ],
-    "dial_code": "+261",
-    "long": 47,
-    "lat": -20,
-    "iso2": "MG",
-    "iso3": "MDG",
-    "name": "Madagascar"
+    ]
   },
   {
+    "name": "Marshall Islands",
+    "iso2": "MH",
+    "iso3": "MHL",
+    "long": 168,
+    "lat": 9,
     "currency": "USD",
+    "dial_code": "+692",
     "capital": "Majuro",
     "cities": [
       "Majuro",
@@ -45136,16 +45142,16 @@
       "Laura",
       "Rairok",
       "Delap-Uliga-Djarrit"
-    ],
-    "dial_code": "+692",
-    "long": 168,
-    "lat": 9,
-    "iso2": "MH",
-    "iso3": "MHL",
-    "name": "Marshall Islands"
+    ]
   },
   {
+    "name": "Macau",
+    "iso2": "MO",
+    "iso3": "MAC",
+    "long": 113.55,
+    "lat": 22.1667,
     "currency": "MOP",
+    "dial_code": "+853",
     "capital": "Macao",
     "cities": [
       "Aomen",
@@ -45176,16 +45182,16 @@
       "Povoacao de Ka Ho",
       "Povoação de Hác Sá",
       "Povoação de Lai Chi Van"
-    ],
-    "dial_code": "+853",
-    "long": 113.55,
-    "lat": 22.1667,
-    "iso2": "MO",
-    "iso3": "MAC",
-    "name": "Macau"
+    ]
   },
   {
+    "name": "Malawi",
+    "iso2": "MW",
+    "iso3": "MWI",
+    "long": 34,
+    "lat": -13.5,
     "currency": "MWK",
+    "dial_code": "+265",
     "capital": "Lilongwe",
     "cities": [
       "Balaka",
@@ -45215,16 +45221,16 @@
       "Salima",
       "Thyolo",
       "Zomba"
-    ],
-    "dial_code": "+265",
-    "long": 34,
-    "lat": -13.5,
-    "iso2": "MW",
-    "iso3": "MWI",
-    "name": "Malawi"
+    ]
   },
   {
+    "name": "Malaysia",
+    "iso2": "MY",
+    "iso3": "MYS",
+    "long": 112.5,
+    "lat": 2.5,
     "currency": "MYR",
+    "dial_code": "+60",
     "capital": "Kuala Lumpur",
     "cities": [
       "Alor Gajah",
@@ -45501,16 +45507,16 @@
       "Tumpat",
       "Ulu Tiram",
       "Victoria"
-    ],
-    "dial_code": "+60",
-    "long": 112.5,
-    "lat": 2.5,
-    "iso2": "MY",
-    "iso3": "MYS",
-    "name": "Malaysia"
+    ]
   },
   {
+    "name": "Maldives",
+    "iso2": "MV",
+    "iso3": "MDV",
+    "long": 73,
+    "lat": 3.25,
     "currency": "MVR",
+    "dial_code": "+960",
     "capital": "Male",
     "cities": [
       "Alifu",
@@ -45533,16 +45539,16 @@
       "Shaviyani",
       "Thaa",
       "Vaavu"
-    ],
-    "dial_code": "+960",
-    "long": 73,
-    "lat": 3.25,
-    "iso2": "MV",
-    "iso3": "MDV",
-    "name": "Maldives"
+    ]
   },
   {
+    "name": "Mali",
+    "iso2": "ML",
+    "iso3": "MLI",
+    "long": -4,
+    "lat": 17,
     "currency": "XOF",
+    "dial_code": "+223",
     "capital": "Bamako",
     "cities": [
       "Bamako (Capital)",
@@ -45554,16 +45560,16 @@
       "Segou",
       "Sikasso",
       "Tombouctou"
-    ],
-    "dial_code": "+223",
-    "long": -4,
-    "lat": 17,
-    "iso2": "ML",
-    "iso3": "MLI",
-    "name": "Mali"
+    ]
   },
   {
+    "name": "Malta",
+    "iso2": "MT",
+    "iso3": "MLT",
+    "long": 14.5833,
+    "lat": 35.8333,
     "currency": "EUR",
+    "dial_code": "+356",
     "capital": "Valletta",
     "cities": [
       "Attard",
@@ -45632,16 +45638,16 @@
       "Zabbar",
       "Zejtun",
       "Zurrieq"
-    ],
-    "dial_code": "+356",
-    "long": 14.5833,
-    "lat": 35.8333,
-    "iso2": "MT",
-    "iso3": "MLT",
-    "name": "Malta"
+    ]
   },
   {
+    "name": "Martinique",
+    "iso2": "MQ",
+    "iso3": "MTQ",
+    "long": -61,
+    "lat": 14.6667,
     "currency": "EUR",
+    "dial_code": "+596",
     "capital": "Fort-de-France",
     "cities": [
       "Case-Pilote",
@@ -45662,16 +45668,16 @@
       "Sainte-Luce",
       "Sainte-Marie",
       "Schoelcher"
-    ],
-    "dial_code": "+596",
-    "long": -61,
-    "lat": 14.6667,
-    "iso2": "MQ",
-    "iso3": "MTQ",
-    "name": "Martinique"
+    ]
   },
   {
+    "name": "Mauritania",
+    "iso2": "MR",
+    "iso3": "MRT",
+    "long": -12,
+    "lat": 20,
     "currency": "MRO",
+    "dial_code": "+222",
     "capital": "Nouakchott",
     "cities": [
       "Adrar",
@@ -45687,16 +45693,16 @@
       "Tagant",
       "Tiris Zemmour",
       "Trarza"
-    ],
-    "dial_code": "+222",
-    "long": -12,
-    "lat": 20,
-    "iso2": "MR",
-    "iso3": "MRT",
-    "name": "Mauritania"
+    ]
   },
   {
+    "name": "Mauritius",
+    "iso2": "MU",
+    "iso3": "MUS",
+    "long": 57.55,
+    "lat": -20.2833,
     "currency": "MUR",
+    "dial_code": "+230",
     "capital": "Port Louis",
     "cities": [
       "Beau Bassin",
@@ -45712,16 +45718,16 @@
       "Saint Jean",
       "Tamarin",
       "Vacoas"
-    ],
-    "dial_code": "+230",
-    "long": 57.55,
-    "lat": -20.2833,
-    "iso2": "MU",
-    "iso3": "MUS",
-    "name": "Mauritius"
+    ]
   },
   {
+    "name": "Mayotte",
+    "iso2": "YT",
+    "iso3": "MYT",
+    "long": 45.1667,
+    "lat": -12.8333,
     "currency": "EUR",
+    "dial_code": "+262",
     "capital": "Mamoudzou",
     "cities": [
       "Bandaboa",
@@ -45736,16 +45742,16 @@
       "Sada",
       "Tsingoni",
       "Tsoundzou 1"
-    ],
-    "dial_code": "+262",
-    "long": 45.1667,
-    "lat": -12.8333,
-    "iso2": "YT",
-    "iso3": "MYT",
-    "name": "Mayotte"
+    ]
   },
   {
+    "name": "Mexico",
+    "iso2": "MX",
+    "iso3": "MEX",
+    "long": -102,
+    "lat": 23,
     "currency": "MXN",
+    "dial_code": "+52",
     "capital": "Mexico City",
     "cities": [
       "Abasolo",
@@ -46444,16 +46450,16 @@
       "Zitlala",
       "Zongolica",
       "Zumpango"
-    ],
-    "dial_code": "+52",
-    "long": -102,
-    "lat": 23,
-    "iso2": "MX",
-    "iso3": "MEX",
-    "name": "Mexico"
+    ]
   },
   {
+    "name": "Moldova",
+    "iso2": "MD",
+    "iso3": "MDA",
+    "long": 29,
+    "lat": 47,
     "currency": "MDL",
+    "dial_code": "+373",
     "capital": "Chisinau",
     "cities": [
       "Anenii Noi",
@@ -46475,16 +46481,16 @@
       "Tiraspol",
       "Voinescu",
       "Vulcanesti"
-    ],
-    "dial_code": "+373",
-    "long": 29,
-    "lat": 47,
-    "iso2": "MD",
-    "iso3": "MDA",
-    "name": "Moldova"
+    ]
   },
   {
+    "name": "Mongolia",
+    "iso2": "MN",
+    "iso3": "MNG",
+    "long": 105,
+    "lat": 46,
     "currency": "MNT",
+    "dial_code": "+976",
     "capital": "Ulan Bator",
     "cities": [
       "Altai",
@@ -46508,16 +46514,16 @@
       "Ulan Bator",
       "Uliastay",
       "Undurkhaan"
-    ],
-    "dial_code": "+976",
-    "long": 105,
-    "lat": 46,
-    "iso2": "MN",
-    "iso3": "MNG",
-    "name": "Mongolia"
+    ]
   },
   {
+    "name": "Montenegro",
+    "iso2": "ME",
+    "iso3": "MNE",
+    "long": 19,
+    "lat": 42,
     "currency": "EUR",
+    "dial_code": "+382",
     "capital": "Podgorica",
     "cities": [
       "Budva",
@@ -46530,27 +46536,27 @@
       "Podgorica",
       "Stari Bar",
       "Ulcinj"
-    ],
-    "dial_code": "+382",
-    "long": 19,
-    "lat": 42,
-    "iso2": "ME",
-    "iso3": "MNE",
-    "name": "Montenegro"
+    ]
   },
   {
-    "currency": "EUR",
-    "capital": "Monaco",
-    "cities": [],
-    "dial_code": "+377",
-    "long": 7.4,
-    "lat": 43.7333,
+    "name": "Monaco",
     "iso2": "MC",
     "iso3": "MCO",
-    "name": "Monaco"
+    "long": 7.4,
+    "lat": 43.7333,
+    "currency": "EUR",
+    "dial_code": "+377",
+    "capital": "Monaco",
+    "cities": []
   },
   {
+    "name": "Montserrat",
+    "iso2": "MS",
+    "iso3": "MSR",
+    "long": -62.2,
+    "lat": 16.75,
     "currency": "XCD",
+    "dial_code": "+1664",
     "capital": "Plymouth",
     "cities": [
       "Amersham",
@@ -46577,16 +46583,16 @@
       "Elberton",
       "Fairfield",
       "Fairy Walk"
-    ],
-    "dial_code": "+1664",
-    "long": -62.2,
-    "lat": 16.75,
-    "iso2": "MS",
-    "iso3": "MSR",
-    "name": "Montserrat"
+    ]
   },
   {
+    "name": "Morocco",
+    "iso2": "MA",
+    "iso3": "MAR",
+    "long": -5,
+    "lat": 32,
     "currency": "MAD",
+    "dial_code": "+212",
     "capital": "Rabat",
     "cities": [
       "Afourer",
@@ -46636,16 +46642,16 @@
       "Tiflet",
       "Tiznit",
       "Touissite"
-    ],
-    "dial_code": "+212",
-    "long": -5,
-    "lat": 32,
-    "iso2": "MA",
-    "iso3": "MAR",
-    "name": "Morocco"
+    ]
   },
   {
+    "name": "Mozambique",
+    "iso2": "MZ",
+    "iso3": "MOZ",
+    "long": 35,
+    "lat": -18.25,
     "currency": "MZN",
+    "dial_code": "+258",
     "capital": "Maputo",
     "cities": [
       "Beira",
@@ -46656,16 +46662,16 @@
       "Pemba",
       "Quelimane",
       "Tete"
-    ],
-    "dial_code": "+258",
-    "long": 35,
-    "lat": -18.25,
-    "iso2": "MZ",
-    "iso3": "MOZ",
-    "name": "Mozambique"
+    ]
   },
   {
+    "name": "Namibia",
+    "iso2": "NA",
+    "iso3": "NAM",
+    "long": 17,
+    "lat": -22,
     "currency": "NAD",
+    "dial_code": "+264",
     "capital": "Windhoek",
     "cities": [
       "Etunda",
@@ -46684,16 +46690,16 @@
       "Tsumeb",
       "Walvis Bay",
       "Windhoek"
-    ],
-    "dial_code": "+264",
-    "long": 17,
-    "lat": -22,
-    "iso2": "NA",
-    "iso3": "NAM",
-    "name": "Namibia"
+    ]
   },
   {
+    "name": "Nauru",
+    "iso2": "NR",
+    "iso3": "NRU",
+    "long": 166.9167,
+    "lat": -0.5333,
     "currency": "AUD",
+    "dial_code": "+674",
     "capital": "Yaren",
     "cities": [
       "Arijejen",
@@ -46706,16 +46712,16 @@
       "Anabar",
       "Uaboe",
       "Ijuw"
-    ],
-    "dial_code": "+674",
-    "long": 166.9167,
-    "lat": -0.5333,
-    "iso2": "NR",
-    "iso3": "NRU",
-    "name": "Nauru"
+    ]
   },
   {
+    "name": "Nepal",
+    "iso2": "NP",
+    "iso3": "NPL",
+    "long": 84,
+    "lat": 28,
     "currency": "NPR",
+    "dial_code": "+977",
     "capital": "Kathmandu",
     "cities": [
       "Bharatpur",
@@ -46724,16 +46730,16 @@
       "Lumbini",
       "Palpa",
       "Patan"
-    ],
-    "dial_code": "+977",
-    "long": 84,
-    "lat": 28,
-    "iso2": "NP",
-    "iso3": "NPL",
-    "name": "Nepal"
+    ]
   },
   {
+    "name": "Netherlands",
+    "iso2": "NL",
+    "iso3": "NLD",
+    "long": 5.75,
+    "lat": 52.5,
     "currency": "EUR",
+    "dial_code": "+31",
     "capital": "Amsterdam",
     "cities": [
       "Aagtekerke",
@@ -48180,16 +48186,16 @@
       "Zwijndrecht",
       "Zwinderen",
       "Zwolle"
-    ],
-    "dial_code": "+31",
-    "long": 5.75,
-    "lat": 52.5,
-    "iso2": "NL",
-    "iso3": "NLD",
-    "name": "Netherlands"
+    ]
   },
   {
+    "name": "New Caledonia",
+    "iso2": "NC",
+    "iso3": "NCL",
+    "long": 165.5,
+    "lat": -21.5,
     "currency": "XPF",
+    "dial_code": "+687",
     "capital": "Noumea",
     "cities": [
       "Dumbea",
@@ -48197,16 +48203,16 @@
       "Noumea",
       "Nouville",
       "Paita"
-    ],
-    "dial_code": "+687",
-    "long": 165.5,
-    "lat": -21.5,
-    "iso2": "NC",
-    "iso3": "NCL",
-    "name": "New Caledonia"
+    ]
   },
   {
+    "name": "New Zealand",
+    "iso2": "NZ",
+    "iso3": "NZL",
+    "long": 174,
+    "lat": -41,
     "currency": "NZD",
+    "dial_code": "+64",
     "capital": "Wellington",
     "cities": [
       "Ahaura",
@@ -48487,16 +48493,16 @@
       "Woolston",
       "Wyndham",
       "Yaldhurst"
-    ],
-    "dial_code": "+64",
-    "long": 174,
-    "lat": -41,
-    "iso2": "NZ",
-    "iso3": "NZL",
-    "name": "New Zealand"
+    ]
   },
   {
+    "name": "Nicaragua",
+    "iso2": "NI",
+    "iso3": "NIC",
+    "long": -85,
+    "lat": 13,
     "currency": "NIO",
+    "dial_code": "+505",
     "capital": "Managua",
     "cities": [
       "Bluefields",
@@ -48512,16 +48518,16 @@
       "Ocotal",
       "Rivas",
       "San Juan del Sur"
-    ],
-    "dial_code": "+505",
-    "long": -85,
-    "lat": 13,
-    "iso2": "NI",
-    "iso3": "NIC",
-    "name": "Nicaragua"
+    ]
   },
   {
+    "name": "Niger",
+    "iso2": "NE",
+    "iso3": "NER",
+    "long": 8,
+    "lat": 16,
     "currency": "XOF",
+    "dial_code": "+227",
     "capital": "Niamey",
     "cities": [
       "Abala",
@@ -48567,16 +48573,16 @@
       "Tillabéri",
       "Torodi",
       "Zinder"
-    ],
-    "dial_code": "+227",
-    "long": 8,
-    "lat": 16,
-    "iso2": "NE",
-    "iso3": "NER",
-    "name": "Niger"
+    ]
   },
   {
+    "name": "Nigeria",
+    "iso2": "NG",
+    "iso3": "NGA",
+    "long": 8,
+    "lat": 10,
     "currency": "NGN",
+    "dial_code": "+234",
     "capital": "Abuja",
     "cities": [
       "Aba",
@@ -48666,16 +48672,16 @@
       "Yaba",
       "Yola",
       "Zaria"
-    ],
-    "dial_code": "+234",
-    "long": 8,
-    "lat": 10,
-    "iso2": "NG",
-    "iso3": "NGA",
-    "name": "Nigeria"
+    ]
   },
   {
+    "name": "Norway",
+    "iso2": "NO",
+    "iso3": "NOR",
+    "long": 10,
+    "lat": 62,
     "currency": "NOK",
+    "dial_code": "+47",
     "capital": "Oslo",
     "cities": [
       "Abelvaer",
@@ -49570,16 +49576,16 @@
       "Kapp Fie",
       "Cape Lollo",
       "Thompson Island"
-    ],
-    "dial_code": "+47",
-    "long": 10,
-    "lat": 62,
-    "iso2": "NO",
-    "iso3": "NOR",
-    "name": "Norway"
+    ]
   },
   {
+    "name": "Niue",
+    "iso2": "NU",
+    "iso3": "NIU",
+    "long": -169.8667,
+    "lat": -19.0333,
     "currency": "NZD",
+    "dial_code": "+683",
     "capital": "Alofi",
     "cities": [
       "Makefu",
@@ -49596,16 +49602,16 @@
       "Tamakautoga",
       "Alofi South",
       "Alofi North"
-    ],
-    "dial_code": "+683",
-    "long": -169.8667,
-    "lat": -19.0333,
-    "iso2": "NU",
-    "iso3": "NIU",
-    "name": "Niue"
+    ]
   },
   {
+    "name": "Norfolk Island",
+    "iso2": "NF",
+    "iso3": "NFK",
+    "long": 167.95,
+    "lat": -29.0333,
     "currency": "AUD",
+    "dial_code": "+672",
     "capital": "Kingston",
     "cities": [
       "Kingston",
@@ -49617,27 +49623,27 @@
       "Middlegate",
       "Rocky Point",
       "Steeles Point"
-    ],
-    "dial_code": "+672",
-    "long": 167.95,
-    "lat": -29.0333,
-    "iso2": "NF",
-    "iso3": "NFK",
-    "name": "Norfolk Island"
+    ]
   },
   {
-    "currency": "USD",
-    "capital": "Saipan",
-    "cities": [],
-    "dial_code": "+1 670",
-    "long": 145.75,
-    "lat": 15.2,
+    "name": "Northern Mariana Islands",
     "iso2": "MP",
     "iso3": "MNP",
-    "name": "Northern Mariana Islands"
+    "long": 145.75,
+    "lat": 15.2,
+    "currency": "USD",
+    "dial_code": "+1 670",
+    "capital": "Saipan",
+    "cities": []
   },
   {
+    "name": "Oman",
+    "iso2": "OM",
+    "iso3": "OMN",
+    "long": 57,
+    "lat": 21,
     "currency": "OMR",
+    "dial_code": "+968",
     "capital": "Muscat",
     "cities": [
       "Al Sohar",
@@ -49647,16 +49653,16 @@
       "Saham",
       "Salalah",
       "Samad"
-    ],
-    "dial_code": "+968",
-    "long": 57,
-    "lat": 21,
-    "iso2": "OM",
-    "iso3": "OMN",
-    "name": "Oman"
+    ]
   },
   {
+    "name": "Pakistan",
+    "iso2": "PK",
+    "iso3": "PAK",
+    "long": 70,
+    "lat": 30,
     "currency": "PKR",
+    "dial_code": "+92",
     "capital": "Islamabad",
     "cities": [
       "Al Mawasi",
@@ -49667,29 +49673,29 @@
       "Jericho",
       "Nablus",
       "Ramallah"
-    ],
-    "dial_code": "+92",
-    "long": 70,
-    "lat": 30,
-    "iso2": "PK",
-    "iso3": "PAK",
-    "name": "Pakistan"
+    ]
   },
   {
+    "name": "Pitcairn",
+    "iso2": "PN",
+    "iso3": "PCN",
+    "long": -127.4,
+    "lat": -24.7,
     "currency": "NZD",
+    "dial_code": "+870",
     "capital": "Adamstown",
     "cities": [
       "Adamstown"
-    ],
-    "dial_code": "+870",
-    "long": -127.4,
-    "lat": -24.7,
-    "iso2": "PN",
-    "iso3": "PCN",
-    "name": "Pitcairn"
+    ]
   },
   {
+    "name": "Palau",
+    "iso2": "PW",
+    "iso3": "PLW",
+    "long": 134.5,
+    "lat": 7.5,
     "currency": "USD",
+    "dial_code": "+680",
     "capital": "Melekeok",
     "cities": [
       "Airai",
@@ -49716,16 +49722,16 @@
       "Koska",
       "Urdmang",
       "Ngriil"
-    ],
-    "dial_code": "+680",
-    "long": 134.5,
-    "lat": 7.5,
-    "iso2": "PW",
-    "iso3": "PLW",
-    "name": "Palau"
+    ]
   },
   {
+    "name": "Panama",
+    "iso2": "PA",
+    "iso3": "PAN",
+    "long": -80,
+    "lat": 9,
     "currency": "PAB",
+    "dial_code": "+507",
     "capital": "Panama City",
     "cities": [
       "Aguadulce",
@@ -49800,16 +49806,16 @@
       "Victoria",
       "Vista Alegre",
       "Vista Hermosa"
-    ],
-    "dial_code": "+507",
-    "long": -80,
-    "lat": 9,
-    "iso2": "PA",
-    "iso3": "PAN",
-    "name": "Panama"
+    ]
   },
   {
+    "name": "Papua New Guinea",
+    "iso2": "PG",
+    "iso3": "PNG",
+    "long": 147,
+    "lat": -6,
     "currency": "PGK",
+    "dial_code": "+675",
     "capital": "Port Moresby",
     "cities": [
       "Aitape",
@@ -49839,16 +49845,16 @@
       "Wabag",
       "Waigani",
       "Wewak"
-    ],
-    "dial_code": "+675",
-    "long": 147,
-    "lat": -6,
-    "iso2": "PG",
-    "iso3": "PNG",
-    "name": "Papua New Guinea"
+    ]
   },
   {
+    "name": "Paraguay",
+    "iso2": "PY",
+    "iso3": "PRY",
+    "long": -58,
+    "lat": -23,
     "currency": "PYG",
+    "dial_code": "+595",
     "capital": "Asuncion",
     "cities": [
       "Ayolas",
@@ -49878,16 +49884,16 @@
       "Villa Hayes",
       "Villarrica",
       "Yataity"
-    ],
-    "dial_code": "+595",
-    "long": -58,
-    "lat": -23,
-    "iso2": "PY",
-    "iso3": "PRY",
-    "name": "Paraguay"
+    ]
   },
   {
+    "name": "Peru",
+    "iso2": "PE",
+    "iso3": "PER",
+    "long": -76,
+    "lat": -10,
     "currency": "PEN",
+    "dial_code": "+51",
     "capital": "Lima",
     "cities": [
       "Abancay",
@@ -49972,16 +49978,16 @@
       "Tumbes",
       "Ventanilla",
       "Victoria"
-    ],
-    "dial_code": "+51",
-    "long": -76,
-    "lat": -10,
-    "iso2": "PE",
-    "iso3": "PER",
-    "name": "Peru"
+    ]
   },
   {
+    "name": "Philippines",
+    "iso2": "PH",
+    "iso3": "PHL",
+    "long": 122,
+    "lat": 13,
     "currency": "PHP",
+    "dial_code": "+63",
     "capital": "Manila",
     "cities": [
       "Abucay",
@@ -50351,16 +50357,16 @@
       "West Triangle",
       "Wines",
       "Zamboanga City"
-    ],
-    "dial_code": "+63",
-    "long": 122,
-    "lat": 13,
-    "iso2": "PH",
-    "iso3": "PHL",
-    "name": "Philippines"
+    ]
   },
   {
+    "name": "Poland",
+    "iso2": "PL",
+    "iso3": "POL",
+    "long": 20,
+    "lat": 52,
     "currency": "PLN",
+    "dial_code": "+48",
     "capital": "Warsaw",
     "cities": [
       "Adama",
@@ -51964,16 +51970,16 @@
       "Zurawica",
       "Zwolen",
       "Zyrakow"
-    ],
-    "dial_code": "+48",
-    "long": 20,
-    "lat": 52,
-    "iso2": "PL",
-    "iso3": "POL",
-    "name": "Poland"
+    ]
   },
   {
+    "name": "Portugal",
+    "iso2": "PT",
+    "iso3": "PRT",
+    "long": -8,
+    "lat": 39.5,
     "currency": "EUR",
+    "dial_code": "+351",
     "capital": "Lisbon",
     "cities": [
       "Abobada",
@@ -52649,16 +52655,16 @@
       "Vizela",
       "Zambujal",
       "Zibreira"
-    ],
-    "dial_code": "+351",
-    "long": -8,
-    "lat": 39.5,
-    "iso2": "PT",
-    "iso3": "PRT",
-    "name": "Portugal"
+    ]
   },
   {
+    "name": "Puerto Rico",
+    "iso2": "PR",
+    "iso3": "PRI",
+    "long": -66.5,
+    "lat": 18.25,
     "currency": "USD",
+    "dial_code": "+1 939",
     "capital": "San Juan",
     "cities": [
       "Adjuntas",
@@ -52748,16 +52754,16 @@
       "Villalba",
       "Yabucoa",
       "Yauco"
-    ],
-    "dial_code": "+1 939",
-    "long": -66.5,
-    "lat": 18.25,
-    "iso2": "PR",
-    "iso3": "PRI",
-    "name": "Puerto Rico"
+    ]
   },
   {
+    "name": "South Korea",
+    "iso2": "KR",
+    "iso3": "KOR",
+    "long": 127.5,
+    "lat": 37,
     "currency": "KRW",
+    "dial_code": "+82",
     "capital": "Seoul",
     "cities": [
       "Andong",
@@ -52869,16 +52875,16 @@
       "North Gyeongsang Province",
       "South Gyeongsang Province",
       "Jeju"
-    ],
-    "dial_code": "+82",
-    "long": 127.5,
-    "lat": 37,
-    "iso2": "KR",
-    "iso3": "KOR",
-    "name": "South Korea"
+    ]
   },
   {
+    "name": "Lithuania",
+    "iso2": "LT",
+    "iso3": "LTU",
+    "long": 24,
+    "lat": 56,
     "currency": "LTL",
+    "dial_code": "+370",
     "capital": "Vilnius",
     "cities": [
       "Alytus",
@@ -52904,16 +52910,16 @@
       "Vilniaus Apskritis",
       "Vilnius",
       "Visaginas"
-    ],
-    "dial_code": "+370",
-    "long": 24,
-    "lat": 56,
-    "iso2": "LT",
-    "iso3": "LTU",
-    "name": "Lithuania"
+    ]
   },
   {
+    "name": "Qatar",
+    "iso2": "QA",
+    "iso3": "QAT",
+    "long": 51.25,
+    "lat": 25.5,
     "currency": "QAR",
+    "dial_code": "+974",
     "capital": "Doha",
     "cities": [
       "Ad Dawhah",
@@ -52926,16 +52932,16 @@
       "Madinat ash Shamal",
       "Umm Sa'id",
       "Umm Salal"
-    ],
-    "dial_code": "+974",
-    "long": 51.25,
-    "lat": 25.5,
-    "iso2": "QA",
-    "iso3": "QAT",
-    "name": "Qatar"
+    ]
   },
   {
+    "name": "Romania",
+    "iso2": "RO",
+    "iso3": "ROU",
+    "long": 25,
+    "lat": 46,
     "currency": "RON",
+    "dial_code": "+40",
     "capital": "Bucharest",
     "cities": [
       "Adjud",
@@ -53459,16 +53465,16 @@
       "Zarnesti",
       "Zlatna",
       "Simleu Silvaniei"
-    ],
-    "dial_code": "+40",
-    "long": 25,
-    "lat": 46,
-    "iso2": "RO",
-    "iso3": "ROU",
-    "name": "Romania"
+    ]
   },
   {
+    "name": "Russia",
+    "iso2": "RU",
+    "iso3": "RUS",
+    "long": 100,
+    "lat": 60,
     "currency": "RUB",
+    "dial_code": "+7",
     "capital": "Moscow",
     "cities": [
       "Abakan",
@@ -54475,16 +54481,16 @@
       "Zvenigorod",
       "Zvenigovo",
       "Zvezda"
-    ],
-    "dial_code": "+7",
-    "long": 100,
-    "lat": 60,
-    "iso2": "RU",
-    "iso3": "RUS",
-    "name": "Russia"
+    ]
   },
   {
+    "name": "Rwanda",
+    "iso2": "RW",
+    "iso3": "RWA",
+    "long": 30,
+    "lat": -2,
     "currency": "RWF",
+    "dial_code": "+250",
     "capital": "Kigali",
     "cities": [
       "Butare",
@@ -54499,16 +54505,16 @@
       "Kigali-ville",
       "Umutara",
       "Ruhengeri"
-    ],
-    "dial_code": "+250",
-    "long": 30,
-    "lat": -2,
-    "iso2": "RW",
-    "iso3": "RWA",
-    "name": "Rwanda"
+    ]
   },
   {
+    "name": "Réunion",
+    "iso2": "RE",
+    "iso3": "REU",
+    "long": 55.6,
+    "lat": -21.1,
     "currency": "EUR",
+    "dial_code": "+262",
     "capital": "Saint-Denis",
     "cities": [
       "Saint-Denis",
@@ -54525,16 +54531,16 @@
       "Saint-Leu",
       "La Possession",
       "Sainte-Suzanne"
-    ],
-    "dial_code": "+262",
-    "long": 55.6,
-    "lat": -21.1,
-    "iso2": "RE",
-    "iso3": "REU",
-    "name": "Réunion"
+    ]
   },
   {
+    "name": "Samoa",
+    "iso2": "WS",
+    "iso3": "WSM",
+    "long": -172.3333,
+    "lat": -13.5833,
     "currency": "WST",
+    "dial_code": "+685",
     "capital": "Apia",
     "cities": [
       "A'ana",
@@ -54548,16 +54554,16 @@
       "Tuamasaga",
       "Va'a-o-Fonoti",
       "Vaisigano"
-    ],
-    "dial_code": "+685",
-    "long": -172.3333,
-    "lat": -13.5833,
-    "iso2": "WS",
-    "iso3": "WSM",
-    "name": "Samoa"
+    ]
   },
   {
+    "name": "Saint Lucia",
+    "iso2": "LC",
+    "iso3": "LCA",
+    "long": -61.1333,
+    "lat": 13.8833,
     "currency": "XCD",
+    "dial_code": "+1 758",
     "capital": "Castries",
     "cities": [
       "Anse La Raye",
@@ -54582,16 +54588,16 @@
       "Ti Rocher, Castries",
       "Ti Rocher, Micoud",
       "Vieux Fort"
-    ],
-    "dial_code": "+1 758",
-    "long": -61.1333,
-    "lat": 13.8833,
-    "iso2": "LC",
-    "iso3": "LCA",
-    "name": "Saint Lucia"
+    ]
   },
   {
+    "name": "San Marino",
+    "iso2": "SM",
+    "iso3": "SMR",
+    "long": 12.4167,
+    "lat": 43.7667,
     "currency": "EUR",
+    "dial_code": "+378",
     "capital": "San Marino",
     "cities": [
       "Acquaviva",
@@ -54599,16 +54605,16 @@
       "Fiorentino",
       "San Marino",
       "Serravalle"
-    ],
-    "dial_code": "+378",
-    "long": 12.4167,
-    "lat": 43.7667,
-    "iso2": "SM",
-    "iso3": "SMR",
-    "name": "San Marino"
+    ]
   },
   {
+    "name": "Saint Kitts and Nevis",
+    "iso2": "KN",
+    "iso3": "KNA",
+    "long": -62.75,
+    "lat": 17.3333,
     "currency": "XCD",
+    "dial_code": "+1 869",
     "capital": "Basseterre",
     "cities": [
       "Basseterre",
@@ -54619,30 +54625,30 @@
       "Newcastle",
       "Old Road Town",
       "Sandy Point Town"
-    ],
-    "dial_code": "+1 869",
-    "long": -62.75,
-    "lat": 17.3333,
-    "iso2": "KN",
-    "iso3": "KNA",
-    "name": "Saint Kitts and Nevis"
+    ]
   },
   {
+    "name": "Saint Pierre and Miquelon",
+    "iso2": "PM",
+    "iso3": "SPM",
+    "long": -56.3333,
+    "lat": 46.8333,
     "currency": "EUR",
+    "dial_code": "+508",
     "capital": "Saint-Pierre",
     "cities": [
       "Miquelon-Langlade",
       "Saint-Pierre"
-    ],
-    "dial_code": "+508",
-    "long": -56.3333,
-    "lat": 46.8333,
-    "iso2": "PM",
-    "iso3": "SPM",
-    "name": "Saint Pierre and Miquelon"
+    ]
   },
   {
+    "name": "Saint Vincent and the Grenadines",
+    "iso2": "VC",
+    "iso3": "VCT",
+    "long": -61.2,
+    "lat": 13.25,
     "currency": "XCD",
+    "dial_code": "+1 784",
     "capital": "Kingstown",
     "cities": [
       "Adelphi",
@@ -54746,16 +54752,16 @@
       "Villa",
       "Wallibou",
       "Waterlo"
-    ],
-    "dial_code": "+1 784",
-    "long": -61.2,
-    "lat": 13.25,
-    "iso2": "VC",
-    "iso3": "VCT",
-    "name": "Saint Vincent and the Grenadines"
+    ]
   },
   {
+    "name": "Saudi Arabia",
+    "iso2": "SA",
+    "iso3": "SAU",
+    "long": 45,
+    "lat": 25,
     "currency": "SAR",
+    "dial_code": "+966",
     "capital": "Riyadh",
     "cities": [
       "Abha",
@@ -54796,16 +54802,16 @@
       "Sayhat",
       "Tabuk",
       "Yanbu` al Bahr"
-    ],
-    "dial_code": "+966",
-    "long": 45,
-    "lat": 25,
-    "iso2": "SA",
-    "iso3": "SAU",
-    "name": "Saudi Arabia"
+    ]
   },
   {
+    "name": "Senegal",
+    "iso2": "SN",
+    "iso3": "SEN",
+    "long": -14,
+    "lat": 14,
     "currency": "XOF",
+    "dial_code": "+221",
     "capital": "Dakar",
     "cities": [
       "Boussinki",
@@ -54820,16 +54826,16 @@
       "Saint-Louis",
       "Sama",
       "Tanaf"
-    ],
-    "dial_code": "+221",
-    "long": -14,
-    "lat": 14,
-    "iso2": "SN",
-    "iso3": "SEN",
-    "name": "Senegal"
+    ]
   },
   {
+    "name": "South Georgia and the South Sandwich Islands",
+    "iso2": "GS",
+    "iso3": "SGS",
+    "long": -37,
+    "lat": -54.5,
     "currency": "GBP",
+    "dial_code": "+500",
     "capital": "Grytviken",
     "cities": [
       "Corbeta Uruguay base (settlement)",
@@ -54842,16 +54848,16 @@
       "Prince Olav Harbour (settlement)",
       "Rosita Harbour (settlement)",
       "Stromness (settlement)"
-    ],
-    "dial_code": "+500",
-    "long": -37,
-    "lat": -54.5,
-    "iso2": "GS",
-    "iso3": "SGS",
-    "name": "South Georgia and the South Sandwich Islands"
+    ]
   },
   {
+    "name": "Sao Tome and Principe",
+    "iso2": "ST",
+    "iso3": "STP",
+    "long": 7,
+    "lat": 1,
     "currency": "STD",
+    "dial_code": "+239",
     "capital": "Sao Tome",
     "cities": [
       "São Tomé",
@@ -54865,16 +54871,16 @@
       "Santo António",
       "Santa Catarina",
       "Porto Alegre"
-    ],
-    "dial_code": "+239",
-    "long": 7,
-    "lat": 1,
-    "iso2": "ST",
-    "iso3": "STP",
-    "name": "Sao Tome and Principe"
+    ]
   },
   {
+    "name": "Sierra Leone",
+    "iso2": "SL",
+    "iso3": "SLE",
+    "long": -11.5,
+    "lat": 8.5,
     "currency": "SLL",
+    "dial_code": "+232",
     "capital": "Freetown",
     "cities": [
       "Port Loko",
@@ -54900,16 +54906,16 @@
       "Yele",
       "Yengema",
       "Yonibana"
-    ],
-    "dial_code": "+232",
-    "long": -11.5,
-    "lat": 8.5,
-    "iso2": "SL",
-    "iso3": "SLE",
-    "name": "Sierra Leone"
+    ]
   },
   {
+    "name": "Serbia",
+    "iso2": "RS",
+    "iso3": "SRB",
+    "long": 21,
+    "lat": 44,
     "currency": "RSD",
+    "dial_code": "+381",
     "capital": "Belgrade",
     "cities": [
       "Ada",
@@ -55005,16 +55011,16 @@
       "Zemun Polje",
       "Zlatibor",
       "Zrenjanin"
-    ],
-    "dial_code": "+381",
-    "long": 21,
-    "lat": 44,
-    "iso2": "RS",
-    "iso3": "SRB",
-    "name": "Serbia"
+    ]
   },
   {
+    "name": "Seychelles",
+    "iso2": "SC",
+    "iso3": "SYC",
+    "long": 55.6667,
+    "lat": -4.5833,
     "currency": "SCR",
+    "dial_code": "+248",
     "capital": "Victoria",
     "cities": [
       "Anse aux Pins",
@@ -55040,16 +55046,16 @@
       "Port Glaud",
       "Saint Louis",
       "Takamaka"
-    ],
-    "dial_code": "+248",
-    "long": 55.6667,
-    "lat": -4.5833,
-    "iso2": "SC",
-    "iso3": "SYC",
-    "name": "Seychelles"
+    ]
   },
   {
+    "name": "Singapore",
+    "iso2": "SG",
+    "iso3": "SGP",
+    "long": 103.8,
+    "lat": 1.3667,
     "currency": "SGD",
+    "dial_code": "+65",
     "capital": "Singapur",
     "cities": [
       "Ang Mo Kio New Town",
@@ -55086,16 +55092,16 @@
       "Woodlands New Town",
       "Yew Tee",
       "Yishun New Town"
-    ],
-    "dial_code": "+65",
-    "long": 103.8,
-    "lat": 1.3667,
-    "iso2": "SG",
-    "iso3": "SGP",
-    "name": "Singapore"
+    ]
   },
   {
+    "name": "Slovakia",
+    "iso2": "SK",
+    "iso3": "SVK",
+    "long": 19.5,
+    "lat": 48.6667,
     "currency": "EUR",
+    "dial_code": "+421",
     "capital": "Bratislava",
     "cities": [
       "Bahon",
@@ -55328,16 +55334,16 @@
       "Zlate",
       "Zuberec",
       "Zvolen"
-    ],
-    "dial_code": "+421",
-    "long": 19.5,
-    "lat": 48.6667,
-    "iso2": "SK",
-    "iso3": "SVK",
-    "name": "Slovakia"
+    ]
   },
   {
+    "name": "Slovenia",
+    "iso2": "SI",
+    "iso3": "SVN",
+    "long": 15,
+    "lat": 46,
     "currency": "EUR",
+    "dial_code": "+386",
     "capital": "Ljubljana",
     "cities": [
       "Ankaran",
@@ -55492,16 +55498,16 @@
       "Zgornje Skofije",
       "Zidani Most",
       "Ziri"
-    ],
-    "dial_code": "+386",
-    "long": 15,
-    "lat": 46,
-    "iso2": "SI",
-    "iso3": "SVN",
-    "name": "Slovenia"
+    ]
   },
   {
+    "name": "Solomon Islands",
+    "iso2": "SB",
+    "iso3": "SLB",
+    "long": 159,
+    "lat": -8,
     "currency": "SBD",
+    "dial_code": "+677",
     "capital": "Honiara",
     "cities": [
       "Central",
@@ -55514,16 +55520,16 @@
       "Rennell and Bellona",
       "Temotu",
       "Western"
-    ],
-    "dial_code": "+677",
-    "long": 159,
-    "lat": -8,
-    "iso2": "SB",
-    "iso3": "SLB",
-    "name": "Solomon Islands"
+    ]
   },
   {
+    "name": "Somalia",
+    "iso2": "SO",
+    "iso3": "SOM",
+    "long": 49,
+    "lat": 10,
     "currency": "SOS",
+    "dial_code": "+252",
     "capital": "Mogadishu",
     "cities": [
       "Awdal",
@@ -55544,16 +55550,16 @@
       "Sool",
       "Togdheer",
       "Woqooyi Galbeed"
-    ],
-    "dial_code": "+252",
-    "long": 49,
-    "lat": 10,
-    "iso2": "SO",
-    "iso3": "SOM",
-    "name": "Somalia"
+    ]
   },
   {
+    "name": "South Africa",
+    "iso2": "ZA",
+    "iso3": "ZAF",
+    "long": 24,
+    "lat": -29,
     "currency": "ZAR",
+    "dial_code": "+27",
     "capital": "Pretoria",
     "cities": [
       "Alberton",
@@ -55881,16 +55887,16 @@
       "Worcester",
       "Wynberg",
       "Zeerust"
-    ],
-    "dial_code": "+27",
-    "long": 24,
-    "lat": -29,
-    "iso2": "ZA",
-    "iso3": "ZAF",
-    "name": "South Africa"
+    ]
   },
   {
+    "name": "Spain",
+    "iso2": "ES",
+    "iso3": "ESP",
+    "long": -4,
+    "lat": 40,
     "currency": "EUR",
+    "dial_code": "+34",
     "capital": "Madrid",
     "cities": [
       "A Cidade",
@@ -58302,16 +58308,16 @@
       "Zuera",
       "Zumaia",
       "Zumarraga"
-    ],
-    "dial_code": "+34",
-    "long": -4,
-    "lat": 40,
-    "iso2": "ES",
-    "iso3": "ESP",
-    "name": "Spain"
+    ]
   },
   {
+    "name": "Sri Lanka",
+    "iso2": "LK",
+    "iso3": "LKA",
+    "long": 81,
+    "lat": 7,
     "currency": "LKR",
+    "dial_code": "+94",
     "capital": "Colombo",
     "cities": [
       "Badulla",
@@ -58351,16 +58357,16 @@
       "Talapathpitiya",
       "Wattala",
       "Wellampitiya"
-    ],
-    "dial_code": "+94",
-    "long": 81,
-    "lat": 7,
-    "iso2": "LK",
-    "iso3": "LKA",
-    "name": "Sri Lanka"
+    ]
   },
   {
+    "name": "Sudan",
+    "iso2": "SD",
+    "iso3": "SDN",
+    "long": 30,
+    "lat": 15,
     "currency": "SDG",
+    "dial_code": "+249",
     "capital": "Khartoum",
     "cities": [
       "Kassala",
@@ -58369,16 +58375,16 @@
       "Shendi",
       "Thabit",
       "Umm Durman"
-    ],
-    "dial_code": "+249",
-    "long": 30,
-    "lat": 15,
-    "iso2": "SD",
-    "iso3": "SDN",
-    "name": "Sudan"
+    ]
   },
   {
+    "name": "Suriname",
+    "iso2": "SR",
+    "iso3": "SUR",
+    "long": -56,
+    "lat": 4,
     "currency": "SRD",
+    "dial_code": "+597",
     "capital": "Paramaribo",
     "cities": [
       "Botopasi",
@@ -58390,16 +58396,16 @@
       "Onverwacht",
       "Paramaribo",
       "Totness"
-    ],
-    "dial_code": "+597",
-    "long": -56,
-    "lat": 4,
-    "iso2": "SR",
-    "iso3": "SUR",
-    "name": "Suriname"
+    ]
   },
   {
+    "name": "Swaziland",
+    "iso2": "SZ",
+    "iso3": "SWZ",
+    "long": 31.5,
+    "lat": -26.5,
     "currency": "SZL",
+    "dial_code": "+268",
     "capital": "Mbabane",
     "cities": [
       "Kwaluseni",
@@ -58407,16 +58413,16 @@
       "Manzini",
       "Mbabane",
       "Piggs Peak"
-    ],
-    "dial_code": "+268",
-    "long": 31.5,
-    "lat": -26.5,
-    "iso2": "SZ",
-    "iso3": "SWZ",
-    "name": "Swaziland"
+    ]
   },
   {
+    "name": "Sweden",
+    "iso2": "SE",
+    "iso3": "SWE",
+    "long": 15,
+    "lat": 62,
     "currency": "SEK",
+    "dial_code": "+46",
     "capital": "Stockholm",
     "cities": [
       "Aby",
@@ -59629,16 +59635,16 @@
       "Ystad",
       "Ytterby",
       "Zinkgruvan"
-    ],
-    "dial_code": "+46",
-    "long": 15,
-    "lat": 62,
-    "iso2": "SE",
-    "iso3": "SWE",
-    "name": "Sweden"
+    ]
   },
   {
+    "name": "Switzerland",
+    "iso2": "CH",
+    "iso3": "CHE",
+    "long": 8,
+    "lat": 47,
     "currency": "CHF",
+    "dial_code": "+41",
     "capital": "Berne",
     "cities": [
       "Aadorf",
@@ -60931,16 +60937,16 @@
       "Zuzgen",
       "Zuzwil",
       "Zwingen"
-    ],
-    "dial_code": "+41",
-    "long": 8,
-    "lat": 47,
-    "iso2": "CH",
-    "iso3": "CHE",
-    "name": "Switzerland"
+    ]
   },
   {
+    "name": "Syria",
+    "iso2": "SY",
+    "iso3": "SYR",
+    "long": 38,
+    "lat": 35,
     "currency": "SYP",
+    "dial_code": "+963",
     "capital": "Damascus",
     "cities": [
       "Al Hasakah",
@@ -60957,16 +60963,16 @@
       "Idlib",
       "Rif Dimashq",
       "Tartus"
-    ],
-    "dial_code": "+963",
-    "long": 38,
-    "lat": 35,
-    "iso2": "SY",
-    "iso3": "SYR",
-    "name": "Syria"
+    ]
   },
   {
+    "name": "Taiwan",
+    "iso2": "TW",
+    "iso3": "TWN",
+    "long": 121,
+    "lat": 23.5,
     "currency": "TWD",
+    "dial_code": "+886",
     "capital": "Taipei",
     "cities": [
       "Budai",
@@ -61035,16 +61041,16 @@
       "Zhubei",
       "Zhunan",
       "Zhuqi"
-    ],
-    "dial_code": "+886",
-    "long": 121,
-    "lat": 23.5,
-    "iso2": "TW",
-    "iso3": "TWN",
-    "name": "Taiwan"
+    ]
   },
   {
+    "name": "Tanzania",
+    "iso2": "TZ",
+    "iso3": "TZA",
+    "long": 35,
+    "lat": -6,
     "currency": "TZS",
+    "dial_code": "+255",
     "capital": "Dodoma",
     "cities": [
       "Arusha",
@@ -61057,16 +61063,16 @@
       "Raha",
       "Tanga",
       "Zanzibar"
-    ],
-    "dial_code": "+255",
-    "long": 35,
-    "lat": -6,
-    "iso2": "TZ",
-    "iso3": "TZA",
-    "name": "Tanzania"
+    ]
   },
   {
+    "name": "Thailand",
+    "iso2": "TH",
+    "iso3": "THA",
+    "long": 100,
+    "lat": 15,
     "currency": "THB",
+    "dial_code": "+66",
     "capital": "Bangkok",
     "cities": [
       "Amnat Charoen",
@@ -61234,16 +61240,16 @@
       "Wiphawadi",
       "Yala",
       "Yasothon"
-    ],
-    "dial_code": "+66",
-    "long": 100,
-    "lat": 15,
-    "iso2": "TH",
-    "iso3": "THA",
-    "name": "Thailand"
+    ]
   },
   {
+    "name": "Togo",
+    "iso2": "TG",
+    "iso3": "TGO",
+    "long": 1.1667,
+    "lat": 8,
     "currency": "XOF",
+    "dial_code": "+228",
     "capital": "Lome",
     "cities": [
       "Kara",
@@ -61251,27 +61257,27 @@
       "Savanes",
       "Centrale",
       "Maritime"
-    ],
-    "dial_code": "+228",
-    "long": 1.1667,
-    "lat": 8,
-    "iso2": "TG",
-    "iso3": "TGO",
-    "name": "Togo"
+    ]
   },
   {
-    "currency": "TOP",
-    "capital": "Nuku'alofa",
-    "cities": [],
-    "dial_code": "+676",
-    "long": -175,
-    "lat": -20,
+    "name": "Tonga",
     "iso2": "TO",
     "iso3": "TON",
-    "name": "Tonga"
+    "long": -175,
+    "lat": -20,
+    "currency": "TOP",
+    "dial_code": "+676",
+    "capital": "Nuku'alofa",
+    "cities": []
   },
   {
+    "name": "Trinidad and Tobago",
+    "iso2": "TT",
+    "iso3": "TTO",
+    "long": -61,
+    "lat": 11,
     "currency": "TTD",
+    "dial_code": "+1 868",
     "capital": "Port of Spain",
     "cities": [
       "Arima",
@@ -61323,16 +61329,16 @@
       "Victoria",
       "Ward of Tacarigua",
       "Woodbrook"
-    ],
-    "dial_code": "+1 868",
-    "long": -61,
-    "lat": 11,
-    "iso2": "TT",
-    "iso3": "TTO",
-    "name": "Trinidad and Tobago"
+    ]
   },
   {
+    "name": "Tunisia",
+    "iso2": "TN",
+    "iso3": "TUN",
+    "long": 9,
+    "lat": 34,
     "currency": "TND",
+    "dial_code": "+216",
     "capital": "Tunis",
     "cities": [
       "Ariana",
@@ -61347,16 +61353,16 @@
       "Sidi Bouzid",
       "Sousse",
       "Tunis"
-    ],
-    "dial_code": "+216",
-    "long": 9,
-    "lat": 34,
-    "iso2": "TN",
-    "iso3": "TUN",
-    "name": "Tunisia"
+    ]
   },
   {
+    "name": "Turkey",
+    "iso2": "TR",
+    "iso3": "TUR",
+    "long": 35,
+    "lat": 39,
     "currency": "TRY",
+    "dial_code": "+90",
     "capital": "Ankara",
     "cities": [
       "Adana",
@@ -61440,16 +61446,16 @@
       "Kilis",
       "Osmaniye",
       "Düzce"
-    ],
-    "dial_code": "+90",
-    "long": 35,
-    "lat": 39,
-    "iso2": "TR",
-    "iso3": "TUR",
-    "name": "Turkey"
+    ]
   },
   {
+    "name": "Turkmenistan",
+    "iso2": "TM",
+    "iso3": "TKM",
+    "long": 60,
+    "lat": 40,
     "currency": "TMT",
+    "dial_code": "+993",
     "capital": "Ashgabat",
     "cities": [
       "Ahal Welayaty (Ashgabat)",
@@ -61457,16 +61463,16 @@
       "Dashoguz Welayaty",
       "Lebap Welayaty (Turkmenabat)",
       "Mary Welayaty"
-    ],
-    "dial_code": "+993",
-    "long": 60,
-    "lat": 40,
-    "iso2": "TM",
-    "iso3": "TKM",
-    "name": "Turkmenistan"
+    ]
   },
   {
+    "name": "Uganda",
+    "iso2": "UG",
+    "iso3": "UGA",
+    "long": 32,
+    "lat": 1,
     "currency": "UGX",
+    "dial_code": "+256",
     "capital": "Kampala",
     "cities": [
       "Adjumani",
@@ -61525,16 +61531,16 @@
       "Tororo",
       "Wakiso",
       "Yumbe"
-    ],
-    "dial_code": "+256",
-    "long": 32,
-    "lat": 1,
-    "iso2": "UG",
-    "iso3": "UGA",
-    "name": "Uganda"
+    ]
   },
   {
+    "name": "Ukraine",
+    "iso2": "UA",
+    "iso3": "UKR",
+    "long": 32,
+    "lat": 49,
     "currency": "UAH",
+    "dial_code": "+380",
     "capital": "Kiev",
     "cities": [
       "Aleksandriya",
@@ -61764,16 +61770,16 @@
       "Zmiyiv",
       "Zolochiv",
       "Zolotonosha"
-    ],
-    "dial_code": "+380",
-    "long": 32,
-    "lat": 49,
-    "iso2": "UA",
-    "iso3": "UKR",
-    "name": "Ukraine"
+    ]
   },
   {
+    "name": "United Arab Emirates",
+    "iso2": "AE",
+    "iso3": "ARE",
+    "long": 54,
+    "lat": 24,
     "currency": "AED",
+    "dial_code": "+971",
     "capital": "Abu Dhabi",
     "cities": [
       "Abu Dhabi",
@@ -61786,16 +61792,16 @@
       "Fujairah",
       "Ras al-Khaimah",
       "Sharjah"
-    ],
-    "dial_code": "+971",
-    "long": 54,
-    "lat": 24,
-    "iso2": "AE",
-    "iso3": "ARE",
-    "name": "United Arab Emirates"
+    ]
   },
   {
+    "name": "United Kingdom",
+    "iso2": "GB",
+    "iso3": "GBR",
+    "long": -2,
+    "lat": 54,
     "currency": "GBP",
+    "dial_code": "+44",
     "capital": "London",
     "cities": [
       "Abberton",
@@ -64724,16 +64730,16 @@
       "Ystrad Mynach",
       "Ystradgynlais",
       "Zeals"
-    ],
-    "dial_code": "+44",
-    "long": -2,
-    "lat": 54,
-    "iso2": "GB",
-    "iso3": "GBR",
-    "name": "United Kingdom"
+    ]
   },
   {
+    "name": "United States",
+    "iso2": "US",
+    "iso3": "USA",
+    "long": -97,
+    "lat": 38,
     "currency": "USD",
+    "dial_code": "+1",
     "capital": "Washington",
     "cities": [
       "Abbeville",
@@ -78454,16 +78460,16 @@
       "Zuni",
       "Zurich",
       "Zwingle"
-    ],
-    "dial_code": "+1",
-    "long": -97,
-    "lat": 38,
-    "iso2": "US",
-    "iso3": "USA",
-    "name": "United States"
+    ]
   },
   {
+    "name": "Uruguay",
+    "iso2": "UY",
+    "iso3": "URY",
+    "long": -56,
+    "lat": -33,
     "currency": "UYU",
+    "dial_code": "+598",
     "capital": "Montevideo",
     "cities": [
       "Barra de Carrasco",
@@ -78482,16 +78488,16 @@
       "San Carlos",
       "Toledo",
       "Union"
-    ],
-    "dial_code": "+598",
-    "long": -56,
-    "lat": -33,
-    "iso2": "UY",
-    "iso3": "URY",
-    "name": "Uruguay"
+    ]
   },
   {
+    "name": "Uzbekistan",
+    "iso2": "UZ",
+    "iso3": "UZB",
+    "long": 64,
+    "lat": 41,
     "currency": "UZS",
+    "dial_code": "+998",
     "capital": "Tashkent",
     "cities": [
       "Andijon Viloyati",
@@ -78508,16 +78514,16 @@
       "Toshkent Shahri",
       "Toshkent Viloyati",
       "Xorazm Viloyati"
-    ],
-    "dial_code": "+998",
-    "long": 64,
-    "lat": 41,
-    "iso2": "UZ",
-    "iso3": "UZB",
-    "name": "Uzbekistan"
+    ]
   },
   {
+    "name": "Vanuatu",
+    "iso2": "VU",
+    "iso3": "VUT",
+    "long": 167,
+    "lat": -16,
     "currency": "VUV",
+    "dial_code": "+678",
     "capital": "Port Vila",
     "cities": [
       "Malampa",
@@ -78526,27 +78532,27 @@
       "Shefa",
       "Tafea",
       "Torba"
-    ],
-    "dial_code": "+678",
-    "long": 167,
-    "lat": -16,
-    "iso2": "VU",
-    "iso3": "VUT",
-    "name": "Vanuatu"
+    ]
   },
   {
-    "currency": "EUR",
-    "capital": "Vatican City",
-    "cities": [],
-    "dial_code": "+379",
-    "long": 12.45,
-    "lat": 41.9,
+    "name": "Vatican City State (Holy See)",
     "iso2": "VA",
     "iso3": "VAT",
-    "name": "Vatican City State (Holy See)"
+    "long": 12.45,
+    "lat": 41.9,
+    "currency": "EUR",
+    "dial_code": "+379",
+    "capital": "Vatican City",
+    "cities": []
   },
   {
+    "name": "Wallis and Futuna",
+    "iso2": "WF",
+    "iso3": "WLF",
+    "long": -176.2,
+    "lat": -13.3,
     "currency": "XPF",
+    "dial_code": "+681",
     "capital": "Mata Utu",
     "cities": [
       "Alele",
@@ -78585,16 +78591,16 @@
       "Fiua",
       "Vaisei",
       "Tavai"
-    ],
-    "dial_code": "+681",
-    "long": -176.2,
-    "lat": -13.3,
-    "iso2": "WF",
-    "iso3": "WLF",
-    "name": "Wallis and Futuna"
+    ]
   },
   {
+    "name": "Venezuela",
+    "iso2": "VE",
+    "iso3": "VEN",
+    "long": -66,
+    "lat": 8,
     "currency": "VEF",
+    "dial_code": "+58",
     "capital": "Caracas",
     "cities": [
       "Acarigua",
@@ -78687,16 +78693,16 @@
       "Valera",
       "Valle",
       "Vargas"
-    ],
-    "dial_code": "+58",
-    "long": -66,
-    "lat": 8,
-    "iso2": "VE",
-    "iso3": "VEN",
-    "name": "Venezuela"
+    ]
   },
   {
+    "name": "Vietnam",
+    "iso2": "VN",
+    "iso3": "VNM",
+    "long": 106,
+    "lat": 16,
     "currency": "VND",
+    "dial_code": "+84",
     "capital": "Hanoi",
     "cities": [
       "An Dinh",
@@ -78811,16 +78817,16 @@
       "Xom Truong Dinh",
       "Yen Bai",
       "Yen Thanh"
-    ],
-    "dial_code": "+84",
-    "long": 106,
-    "lat": 16,
-    "iso2": "VN",
-    "iso3": "VNM",
-    "name": "Vietnam"
+    ]
   },
   {
+    "name": "Yemen",
+    "iso2": "YE",
+    "iso3": "YEM",
+    "long": 48,
+    "lat": 15,
     "currency": "YER",
+    "dial_code": "+967",
     "capital": "Sanaa",
     "cities": [
       "Abyan",
@@ -78842,16 +78848,16 @@
       "San'a'",
       "Shabwah",
       "Ta'izz"
-    ],
-    "dial_code": "+967",
-    "long": 48,
-    "lat": 15,
-    "iso2": "YE",
-    "iso3": "YEM",
-    "name": "Yemen"
+    ]
   },
   {
+    "name": "Zambia",
+    "iso2": "ZM",
+    "iso3": "ZMB",
+    "long": 30,
+    "lat": -15,
     "currency": "ZMK",
+    "dial_code": "+260",
     "capital": "Lusaka",
     "cities": [
       "Kalomo",
@@ -78863,16 +78869,16 @@
       "Ndola",
       "Siavonga",
       "Solwezi"
-    ],
-    "dial_code": "+260",
-    "long": 30,
-    "lat": -15,
-    "iso2": "ZM",
-    "iso3": "ZMB",
-    "name": "Zambia"
+    ]
   },
   {
+    "name": "Zimbabwe",
+    "iso2": "ZW",
+    "iso3": "ZWE",
+    "long": 30,
+    "lat": -20,
     "currency": "ZWL",
+    "dial_code": "+263",
     "capital": "Harare",
     "cities": [
       "Bulawayo",
@@ -78884,12 +78890,6 @@
       "Mufakose",
       "Mutare",
       "Victoria Falls"
-    ],
-    "dial_code": "+263",
-    "long": 30,
-    "lat": -20,
-    "iso2": "ZW",
-    "iso3": "ZWE",
-    "name": "Zimbabwe"
+    ]
   }
 ]
